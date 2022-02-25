@@ -1,0 +1,1624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Dr. Thomas Morton, late Bishop of Duresme begun by R.B. secretary to his Lordship ; and finished by J.N., D.D., his Lordship's chaplain.</title>
+            <author>R. B. (Richard Baddeley)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 103 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69606</idno>
+            <idno type="STC">Wing B382B</idno>
+            <idno type="STC">ESTC R37053</idno>
+            <idno type="EEBO-CITATION">16197712</idno>
+            <idno type="OCLC">ocm 16197712</idno>
+            <idno type="VID">105045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:13 or 1680:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of Dr. Thomas Morton, late Bishop of Duresme begun by R.B. secretary to his Lordship ; and finished by J.N., D.D., his Lordship's chaplain.</title>
+                  <author>R. B. (Richard Baddeley)</author>
+                  <author>Naylor, Joseph.</author>
+                  <author>Nelson, Joseph.</author>
+               </titleStmt>
+               <extent>[13], 189 p., [1] leaf of plates : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Stephen Bulkley, and are to be sould by Francis Mawbarne,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Joint authorship attributed to Joseph (or John) Naylor and Joseph Nelson. Cf. Halk. and Laing; DNB.</note>
+                  <note>Includes frontispiece portrait of Dr. Morton.</note>
+                  <note>Errata: p. [12].</note>
+                  <note>Item at reel 1085:13 identified as Wing no. B387 (number cancelled).</note>
+                  <note>Reproduction of originals in the Huntington Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Morton, Thomas, 1564-1659.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:105045:1"/>
+            <p>Imprimatur,</p>
+            <p>Joh. Garthwait, <hi>Reve<g ref="char:EOLhyphen"/>rendiſſimo in Chriſto Pa<g ref="char:EOLhyphen"/>tri, ac Dom. Dom.</hi> Ri<g ref="char:EOLhyphen"/>chardo <hi>Archiepiſ.</hi> Ebo<g ref="char:EOLhyphen"/>racenſi, <hi>à Sacris Domè<g ref="char:EOLhyphen"/>ſticis.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Datum</hi> Epiſcopo. Thorpae, <date>Sept. 11. 1668.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:105045:1"/>
+            <pb facs="tcp:105045:2"/>
+            <p>
+               <figure/>
+            </p>
+            <p>Reverendus in Chriſto Pater, ac <hi>Dom. Dom. Thomas Du<g ref="char:EOLhyphen"/>nelmenſis</hi> Epiſcopus.</p>
+            <list>
+               <head>Obiit Anno</head>
+               <label>Aetatis</label>
+               <item>95.</item>
+               <label>Epiſcopatus</label>
+               <item>44.</item>
+               <label>Salutis</label>
+               <item>1659.</item>
+            </list>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:105045:2" rendition="simple:additions"/>
+            <p>THE LIFE OF <hi>Dr.</hi> THOMAS MORTON, Late Biſhop of DURESME.</p>
+            <p>Begun by <hi>R. B.</hi> Secre<g ref="char:EOLhyphen"/>tary to his Lordſhip. AND Finiſhed by J. N. D. D. his Lordſhips Chaplain.</p>
+            <p>
+               <hi>YORK,</hi> Printed by <hi>Stephen Bulkley,</hi> and are to be ſould by <hi>Francis Mawbarne,</hi> 1669.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105045:3"/>
+            <pb facs="tcp:105045:3"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <hi>I</hi> Am not altogether ignorant that the Life of this Reverend, truely-religious, and learned Prelate (my dear Maſter Doctor <hi>Thomas Morton,</hi> late Biſhop of <hi>Dureſme,</hi> hath been Writ<g ref="char:EOLhyphen"/>ten
+<pb facs="tcp:105045:4"/>
+by a Reverend Divine Dr. <hi>John Barwick</hi> (by the moſt gracious favour of King <hi>Charles</hi> our preſent Soveraigne) promoted firſt to the Deanary of <hi>Dur<g ref="char:EOLhyphen"/>ham;</hi> and after of Saint <hi>Pauls London,</hi> lately de<g ref="char:EOLhyphen"/>funct (having been his Lordſhips Chaplain) toge<g ref="char:EOLhyphen"/>ther with a pious Sermon thereunto annexed, which he Preached at the Fune<g ref="char:EOLhyphen"/>ralls of the ſaid Biſhop: And I much rejoyced that
+<pb facs="tcp:105045:4"/>
+he had taken the pains to Publiſh it in Print. But here I muſt make bold to manifeſt, That albeit he had been his Lordſhips, Chaplain; yet was it in his devex old Age, when he had been reduced to a Pri<g ref="char:EOLhyphen"/>vate Life, being caſt out of that plentifull Eſtate of the Biſhoprick of <hi>Du<g ref="char:EOLhyphen"/>reſme,</hi> to which he had been advanced by that glo<g ref="char:EOLhyphen"/>rious Martyr King <hi>Charles</hi> the Firſt.</p>
+            <p>
+               <pb facs="tcp:105045:5"/>Whereupon I, who had been his Servant and Se<g ref="char:EOLhyphen"/>cretary for the ſpace of 50. years <hi>(&amp; quod excurrit)</hi> being quite outed of ſuch Offices and employment, as I had under his Lordſhip, by theſe late woefull and deſtructive Times; did think with my ſelfe, that I could not better beſtow ſome part of my ſtill-decay<g ref="char:EOLhyphen"/>ing old Age, then in recol<g ref="char:EOLhyphen"/>lecting and laying together ſome ſuch memorable par<g ref="char:EOLhyphen"/>ticulars,
+<pb facs="tcp:105045:5"/>
+as I had obſerved (of his Life) during my attendance on his Lordſhip; which thing I then under<g ref="char:EOLhyphen"/>took, and having finiſhed it, after my rude Stile; I ſent it up to his Lordſhip, (then, though unwillingly, ſojourning in <hi>Hartford<g ref="char:EOLhyphen"/>ſhire)</hi> for that I would at<g ref="char:EOLhyphen"/>tempt nothing in that kind, without his liking and ap<g ref="char:EOLhyphen"/>probation. And to his Lordſhip it was committed, and with him left; but by
+<pb facs="tcp:105045:6"/>
+him the leſs minded, for that his thoughts were <hi>up<g ref="char:EOLhyphen"/>wards,</hi> and Heavenly fix<g ref="char:EOLhyphen"/>ed. And here (as it ſeem<g ref="char:EOLhyphen"/>eth) Dr. <hi>Barwick,</hi> who then and there attended on his Lordſhip, as Chaplain, did furniſh himſelfe with ſuch paſſages, as (after) he had uſe of in the Writing of his Life, whereof he could not be better Informed.</p>
+            <p>And becauſe my Narra<g ref="char:EOLhyphen"/>tion extended not further then till (about) the late
+<pb facs="tcp:105045:6"/>
+unhappy and miſerable breach between our late moſt gracious and Sacred Soveraigne, and that moſt wretched, (ſo called) <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> (which fell out to His Majeſties eternall Ho<g ref="char:EOLhyphen"/>nour, and their perpetuall ſhame:) I therefore con<g ref="char:EOLhyphen"/>ſulted with a Learned and Reverend Doctor <note n="a" place="margin">Doctor Joſeph Naylor, Preben<g ref="char:EOLhyphen"/>dary of <hi>Durham,</hi> and Re<g ref="char:EOLhyphen"/>ctor of <hi>Sedgfield</hi> very late<g ref="char:EOLhyphen"/>ly decea<g ref="char:EOLhyphen"/>ſed.</note>, who then gave attendance on his Lordſhip (lodging in <hi>Durham-Houſe</hi> in the <hi>Strand London)</hi> being
+<pb facs="tcp:105045:7"/>
+one of his Lordſhips Chap<g ref="char:EOLhyphen"/>lains, and requeſted him to ſet Pen to Paper, and to Write what he had fur<g ref="char:EOLhyphen"/>ther Obſerved (upon thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subject) in thoſe moſt dif<g ref="char:EOLhyphen"/>ficult and funebrious times<g ref="char:punc">▪</g> 
+               <g ref="char:V">Ʋ</g>nto which Motion, h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt willingly condeſcend<g ref="char:EOLhyphen"/>ed, (ſuch was the Lov<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Honour which he bor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to his late Maſter an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> liberall Patron) as wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plainly appeare by hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Narrative</hi> hereunto, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:105045:7"/>
+the end adjoyned. And herewith I thought good to acquaint thee, <hi>Chriſti<g ref="char:EOLhyphen"/>an Reader:</hi> And ſo Farewell.</p>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge 24. l. 12. for Dialact, r. Dialect. p. 28 l. 6. for grada, r. gra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u. p. 31. l. 17. for Marſhes, r. Marches. p. 68 l 5. for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, r. auſus. p. 80. l. 13. for fleſh, r. fleſh. p. 92. l. 12. for abſteniouſneſs, r. abſtemiouſneſs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:105045:8"/>
+            <pb n="1" facs="tcp:105045:8"/>
+            <head>The Life of <hi>THOMAS MORTON</hi> late Biſhop of <hi>DURESME.</hi>
+            </head>
+            <p>IF the natalicious and Birth-places of moſt Noble and Victorious Princes, or the Cities where they put off their Princely Ornaments, ſub<g ref="char:EOLhyphen"/>mitting their Mortall Bo<g ref="char:EOLhyphen"/>dies to the Earth, their common Mother, may be accounted an Honour to ſuch Places; Then may
+<pb n="2" facs="tcp:105045:9"/>
+this Obſervation juſtly add ſome reputation unto him, whoſe Life (in part) I un<g ref="char:EOLhyphen"/>dertake to Publiſh: For he was Borne in <note n="a" place="margin">Where <hi>Septini<g ref="char:EOLhyphen"/>us Seve<g ref="char:EOLhyphen"/>rus</hi> expi<g ref="char:EOLhyphen"/>red his laſt, and the place of his Se<g ref="char:EOLhyphen"/>pulture is known, at this day, by the Name of <hi>Sever<g ref="char:EOLhyphen"/>hill,</hi> neer York: And long after him, that vertuous Prince <hi>Conſtantius,</hi> ſurnamed <hi>Chlorus,</hi> (both of them <hi>Romane Emperors)</hi> likewiſe dyed: And where alſo <hi>Conſtantine the Great,</hi> his Sonne, was borne; and after his Fathers death had the Purple Robe caſt upon him, and Proclaimed <hi>Emperour.</hi> And here <hi>Bellena,</hi> the Heathen Goddeſs of Warr had a Temple: Where alſo <hi>Probus Papinia<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> that famous Oracle of the Law. Prefiſſed, &amp;c. as learned Authors, both Ancient and Moderne, do conſent.</note> 
+               <hi>YORK,</hi> that ancient City, on <hi>Tueſday</hi> the ſeventeenth day of <hi>March,</hi> in the year of our Lord 1564. <milestone type="tcpmilestone" unit="unspecified" n="1564"/> and was the ſixth Child of nineteen, borne of one Wife unto
+<pb n="3" facs="tcp:105045:9"/>
+Mr. <hi>Richard Morton,</hi> a Reli<g ref="char:EOLhyphen"/>gious, Wiſe, and well-go<g ref="char:EOLhyphen"/>verned Gentleman (Mer<g ref="char:EOLhyphen"/>cer, and Alderman of that City) in the moſt happy and proſperous Raigne of Queen <hi>ELIZABETH</hi> of famous, and never dy<g ref="char:EOLhyphen"/>ing memory.</p>
+            <p>He was put to Schoole to Learne the <hi>Engliſh Ele<g ref="char:EOLhyphen"/>ments,</hi> in the ſame City, (ſo ſoon as his tender age permitted) where, as I have heard him ſay, were his School-fellows Mr. <hi>Thomas Cheeke</hi> (after Knighted by King <hi>JAMES</hi>) Grand<g ref="char:EOLhyphen"/>child
+<pb n="4" facs="tcp:105045:10"/>
+to that famous Schol<g ref="char:EOLhyphen"/>ler <note n="b" place="margin">VVho was School<g ref="char:EOLhyphen"/>maſter unto that Religious Prince King <hi>Ed<g ref="char:EOLhyphen"/>ward VI.</hi> This Sir <hi>John Cheeke</hi> was the honour of St. <hi>Johns Colledge</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> (as was his great Grand-Childe Mr. <hi>Henry Molle,</hi> Fellow of <hi>Kings College,</hi> lately deceaſed) both of them in their times, <hi>Publique Orators</hi> in that <g ref="char:V">Ʋ</g>niverſity. And this Mr. <hi>Henry Molle</hi> was Sonne unto Mr. <hi>John Molle,</hi> who dyed Priſoner in the Inquiſition at <hi>Rome,</hi> after two and thirty years durance, for the Teſtimony of the true Proteſtant Religion. <hi>Quos honoris causâ memoro.</hi>
+               </note> Sir <hi>John Cheeke</hi>) and <hi>Guy Faux,</hi> who afterwards proved that famous and fatall incendiary in that never to be forgotten <hi>G<g ref="char:V">Ʋ</g>N - POWDER - TREA<g ref="char:EOLhyphen"/>SON,</hi> which God Almigh<g ref="char:EOLhyphen"/>ty, through King <hi>JAMES</hi> His ſingular and Divine Wiſdome, moſt happily prevented and ſubverted.</p>
+            <p>
+               <pb n="5" facs="tcp:105045:10"/>After a ſmall time, he was ſent to the Free School of <hi>Hallifax,</hi> in that County, under one Mr. <hi>Maud,</hi> then Schoolmaſter there: And after a competent time, he was found fit for the Uni<g ref="char:EOLhyphen"/>verſity; and was according<g ref="char:EOLhyphen"/>ly placed a Student in St. <hi>Johns</hi> College in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> whereof (then) was Maſter that incomparably learned Doctor <hi>William Whittakers,</hi> (whom but to Name is enough) unto whom, in a ſhort time, he became known, and by him was encouraged in his
+<pb n="6" facs="tcp:105045:11"/>
+Studies. He had two learn<g ref="char:EOLhyphen"/>ed Tutors, ſucceſſively, Mr. <hi>Anthony Higgons,</hi> (long after Deane of the Colle<g ref="char:EOLhyphen"/>giate Church of <hi>Rippon</hi> in <hi>York-ſhire:</hi>) And Mr. <hi>Henry Nelſon,</hi> afterwards Rector of <hi>Hougham,</hi> an un wearied Preacher of Gods Word there, where he lived to ſee this his Pupill to be <hi>Biſhop of Dureſine.</hi>
+            </p>
+            <p>Now, after he had ſuffi<g ref="char:EOLhyphen"/>ently performed ſuch Acts and Exerciſes, as by the Statutes of the Houſe were required; he orderly took the degrees, firſt of <hi>Bache<g ref="char:EOLhyphen"/>lor,</hi>
+               <pb n="7" facs="tcp:105045:11"/>
+next of <hi>Maſter of Arts</hi> in the Univerſity, and was after that Elected Fellow of the College, (Doctor <hi>Whittakers</hi> being his wor<g ref="char:EOLhyphen"/>thy Fautor, and Promotor) and not long after he be<g ref="char:EOLhyphen"/>came Logick Lecturer of the Univerſity, which Of<g ref="char:EOLhyphen"/>fice he diſcharged to his exceeding commendation.</p>
+            <p>Being now of mature years (his own inclination being promoved by the ho<g ref="char:EOLhyphen"/>ly Spirit of God) he was admitted unto the Scared Order of <hi>Deacon,</hi> and the next year of <hi>Prieſt,</hi> by the
+<pb n="8" facs="tcp:105045:12" rendition="simple:additions"/>
+right Reverend Father <hi>Richard Biſhop of Peter<g ref="char:EOLhyphen"/>borow,</hi> in the year of our Lord, 1592. and 1593. And having continued in the Univerſity about five years longer, he was (by Gods All-ſeeing Provi<g ref="char:EOLhyphen"/>dence) called into his na<g ref="char:EOLhyphen"/>tive Country, for his pro<g ref="char:EOLhyphen"/>vident Father had (at that time) ſought out and pro<g ref="char:EOLhyphen"/>cured a good Parſonage for him, called <hi>Long Marſton,</hi> where he ſpent his time (as a good Paſtor) in the dili<g ref="char:EOLhyphen"/>gent Preaching of Gods Word, unto his Pariſhioners
+<pb n="9" facs="tcp:105045:12"/>
+there, and ſometimes in other neighbouring places, eſpecially where they moſt ſtood in need of Spirituall comfort and inſtruction.</p>
+            <p>In which Place, whiles he was Incumbent, he brought thither two learn<g ref="char:EOLhyphen"/>ed, and hopefull Seholers<g ref="char:punc">▪</g> Mr. <hi>John Price;</hi> and after him, Mr. <hi>Matthew Levet,</hi> ſometimes his Pupills in St. <hi>Johns:</hi> the later after<g ref="char:EOLhyphen"/>wards, Prebendary and ſub-Deane of the Collegiate Church of <hi>Rippon,</hi> a moſt painful and learned Preach<g ref="char:EOLhyphen"/>er, and a carefull Overſeer
+<pb n="10" facs="tcp:105045:13"/>
+of that Church and Flock committed to his Charge and Government, upo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom afterwards, he colla<g ref="char:EOLhyphen"/>ted a good Prebend in th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church of <hi>Durham,</hi> whe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> afterwards Biſhop there.</p>
+            <p>At this time, <hi>viz.</hi> 1598 <milestone type="tcpmilestone" unit="unspecified" n="1598"/> Mr. <hi>Morton</hi> was called upo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to take the Degree o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Batchelor in Divinity</hi> i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>Johns</hi> College in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> when both by Preaching and Diſputing in the Schooles (<hi>pro gradu</hi>) he performed his task ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Learnedly (to his grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commendation) that h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:105045:13"/>
+was not only held worthy of that Degree, but of an higher, which in due time followed.</p>
+            <p>In the year 1602. he<note place="margin">1602.</note> was made choice of by the right Honourable <hi>Ralph Lord Eure,</hi> (who by Queen <hi>Elizabeth</hi> was ſelected <hi>Lord Embaſſadour</hi> to the <hi>Empe<g ref="char:EOLhyphen"/>rour,</hi> and King of <hi>Denmark</hi>) to attend on him for one of his Chaplains, Mr. <hi>Richard Crakanthorp,</hi> that exquiſite Divine, was the other, (who long afterwards proceeded <hi>Profeſſor of Divinity</hi> in <hi>Oxon,</hi> and among other
+<pb n="12" facs="tcp:105045:14"/>
+learned Books which he Publiſhed, the laſt was, his <hi>Verè Cygnaea Cantio,</hi> that la<g ref="char:EOLhyphen"/>borious and elaborate An<g ref="char:EOLhyphen"/>ſwer to the Arch-biſhop of <hi>Spalato</hi> (then a renegado in Religion) his <hi>Conſilium Re<g ref="char:EOLhyphen"/>ditus,</hi> which he indigitated <hi>Defenſio Eccleſiae Anglica<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> In this travail, Maſter <hi>Morton</hi> having leave to paſs further into high <hi>Germany,</hi> there he ſaw and ſaluted ſome of the <hi>Jeſuites</hi> Colle<g ref="char:EOLhyphen"/>ges, and amongſt ſundry others, that at <hi>Mentz,</hi> where one <hi>Mulhuſinius,</hi> a learned <hi>Jeſuite,</hi> and he, fell into ac<g ref="char:EOLhyphen"/>quaintance,
+<pb n="13" facs="tcp:105045:14"/>
+and had con<g ref="char:EOLhyphen"/>ference together in certain Points of Religion: Which <hi>Jeſuite</hi> then gave him a lit<g ref="char:EOLhyphen"/>tle Printed Tract, with an <hi>Inſcription</hi> under his own Hand, <hi>To Mr. Morton,</hi> which I have ſeen: And at <hi>Colen</hi> he alſo was known to, and conferred with another learned <hi>Jeſuite,</hi> called <hi>Ni<g ref="char:EOLhyphen"/>colaus Serarius,</hi> who after<g ref="char:EOLhyphen"/>wards <note n="c" place="margin">Though he did it obliquely, becauſe he had miſ-named <hi>Baronius</hi> the Cardinall a <hi>Jeſuite,</hi> as though that were a diſparagement unto him; albeit, <hi>Tolet</hi> and <hi>Bellarmine,</hi> (both of them <hi>Jeſuites)</hi> were diſpenced with by the <hi>Popes pleniporencie,</hi> to be tran<g ref="char:EOLhyphen"/>ſlated into <hi>Cardinalls,</hi> how ſtrict ſoever the Rules of their Societie were againſt it.</note> made mention of
+<pb n="14" facs="tcp:105045:15"/>
+Mr. <hi>Morton</hi> in a book whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he writ and Publiſhed, cal<g ref="char:EOLhyphen"/>ling it <hi>Minerval,</hi> againſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that miracle of Learning <hi>Joſephus Scaliger.</hi>
+            </p>
+            <p>In this Voyage, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chiefly at <hi>Franckford</hi> upo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Moene,</hi> he furniſhe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelfe with ſuch variet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of learned books (whereo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many were <hi>Pontifican</hi> Wri<g ref="char:EOLhyphen"/>ters) as upon his retur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> home became very uſeful to him for his Study, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the exaration of ſuc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Learned Works, (in Con<g ref="char:EOLhyphen"/>troverſies agitated betwix us, and the Papiſts) whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:105045:15"/>
+in ſucceeding time, he Writ and Publiſhed, even almoſt during Life.</p>
+            <p>Being returned into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> he became Chaplaine to the right Honorable and noble Lord <hi>Roger Earle of Rutland,</hi> on whom he ſome<g ref="char:EOLhyphen"/>times attended at <hi>Belvoir Caſtle,</hi> where (upon occaſi<g ref="char:EOLhyphen"/>on) he Writ a Paper of Verſes, which (as I remem<g ref="char:EOLhyphen"/>ber) concluded thus:</p>
+            <lg>
+               <l>Bella, precor, (<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lvoir) nomen quià</l>
+               <l>Bella-videri<g ref="char:punc">▪</g> Bella niſi fauſto cum omin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ne videas.</l>
+               <l>Quem Le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> terruerit (quid eni<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> niſi vota?) pre<g ref="char:EOLhyphen"/>camur,</l>
+               <l>Hunc beet (<hi>ô Belvoir</hi>) qua Roſa noſtra domum.</l>
+            </lg>
+            <p>In the year 1603. fell<note place="margin">1603.</note>
+               <pb n="16" facs="tcp:105045:16"/>
+that great and funebriou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſickneſs of the Plague at <hi>York,</hi> whereof ſome thou<g ref="char:EOLhyphen"/>ſands dyed; but the poore<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſort of the Infected, wer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turned out of the City, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had Booths Erected fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them on <hi>Hobmoor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> neer un<g ref="char:EOLhyphen"/>to the City: For whoſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfort and reliefe, in tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fatall extremity, Mr. <hi>Mor<g ref="char:EOLhyphen"/>ton</hi> often repaired unt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them from <hi>Marſton</hi> to <hi>preac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> unto them the Word o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and to Miniſter con<g ref="char:EOLhyphen"/>ſolation to their languiſh<g ref="char:EOLhyphen"/>ing ſoules; having witha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proviſions of meat carrie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:105045:16"/>
+with him in Sacks, to re<g ref="char:EOLhyphen"/>lieve the pooreſt ſort with<g ref="char:EOLhyphen"/>all. But, as often as he went thither, he ſuffered not any ſervant to attend him, but himſelfe ſadled and unſad<g ref="char:EOLhyphen"/>led his Horſe, and had a private door-ſtead made through the wall of his ſtu<g ref="char:EOLhyphen"/>dy (being the utmoſt part of the houſe) for preventi<g ref="char:EOLhyphen"/>on, leſt he might bring the contagion with him, and indanger his whole Family. This was one of the works of mercy and charity.</p>
+            <p>About this time he was made choice of by the
+<pb n="18" facs="tcp:105045:17"/>
+right Honourable the Lord <hi>Sheffield,</hi> then Lord Preſi<g ref="char:EOLhyphen"/>dent of <hi>York,</hi> to confe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and diſpute, in points of Religion, with one Mr. <hi>Young</hi> a Popiſh Prieſt (then Priſoner in <hi>York</hi> Caſtle,) and one Mr. <hi>Stillington</hi> a Gentleman of that perſwa<g ref="char:EOLhyphen"/>ſion; which Conference was held before his Honour, and the Learned Counſell, in the Mannor houſe of <hi>York,</hi> where were alſo preſent many of the Knights and Gentry in the County. The main Point which was con<g ref="char:EOLhyphen"/>troverted, and diſputed of,
+<pb n="19" facs="tcp:105045:17"/>
+was, <hi>The Popes Infallability of judging:</hi> In the handling whereof, his Adverſaries were ſo gravelled and con<g ref="char:EOLhyphen"/>founded, that Mr. <hi>Morton</hi> won the reputation of an able Divine, and acute Diſ<g ref="char:EOLhyphen"/>putant. This Diſputation was never hitherto Publi<g ref="char:EOLhyphen"/>ſhed, but is in their hands who may let it ſee the light now (eſpecially) that both parties are defunct.</p>
+            <p>In the yeare 1604. he<note place="margin">1604.</note> he look his Journey to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where, by the incou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agement of the right Re<g ref="char:EOLhyphen"/>verend and vigilant Biſhop<g ref="char:punc">▪</g>
+               <pb n="20" facs="tcp:105045:18"/>
+of <hi>London,</hi> Dr. <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> (who about this time w<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tranſlated thence to t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Arch-biſhoprick of <hi>Cante<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bury,</hi> he Publiſhed his fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> labour, intituled, <hi>Apolog<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Catholicae, Pars</hi> I. and De<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cated it to the ſaid Arc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Biſhop his noble Patro<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> And about this time, t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> moſt Reverend Father God <note n="d" place="margin">Whom <hi>Campian</hi> the <hi>Je<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>ite</hi> thus mentio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, <hi>Qui nu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c do<g ref="char:EOLhyphen"/>minatur in conci<g ref="char:EOLhyphen"/>onibus, <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 5.</hi>
+               </note> 
+               <hi>Toby Matthew</hi> Lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arch-Biſhop of <hi>York,</hi> th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> famous Preacher, confe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on him a good Prebend that Metropolitical <hi>Chur<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for his greater <hi>advanceme<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and furtherance in Divi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Studies.</p>
+            <p>
+               <pb n="21" facs="tcp:105045:18"/>And now intending to goe forward with the ſe<g ref="char:EOLhyphen"/>cond Part of his <hi>Apologiae,</hi> he was for a time conſtrain<g ref="char:EOLhyphen"/>ed to ſupercede; for in the nick of this time, fell out that moſt horrible and exe<g ref="char:EOLhyphen"/>crable <hi>GUN-POWDER-TREASON,</hi> which yet (by the mercy of Almighty God) was even miracu<g ref="char:EOLhyphen"/>louſly quaſhed, and over<g ref="char:EOLhyphen"/>throwne. Whereupon Mr. <hi>Morton</hi> Publiſhed a little Tract, which he inſtiled, <hi>Dangerous Poſitions and Pra<g ref="char:EOLhyphen"/>ctiſes for Rebellion;</hi> proving, (out of the <hi>Jeſuites,</hi> and
+<pb n="22" facs="tcp:105045:19"/>
+other <hi>Pontifician Authors,</hi> that they forged and main<g ref="char:EOLhyphen"/>tained thoſe <hi>Poſitions</hi> of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now Church of <hi>Rome,</hi> whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were the grand work o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Treaſon</hi> and <hi>Rebellion</hi> againſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all Princes of Soveraigne Powers, who had renoun<g ref="char:EOLhyphen"/>ced and ſhaken off the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> yoake.</p>
+            <p>This being paſt, he Pub<g ref="char:EOLhyphen"/>liſhed<note place="margin">1606</note> the ſecond Part o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his <hi>Apologiae Catholicae,</hi> 
+               <note n="e" place="margin">A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his tim<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of his h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nou<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Kinſma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho<g ref="char:EOLhyphen"/>mas Va<g ref="char:EOLhyphen"/>viſor</hi> Kni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht-Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhall of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s moſt ho<g ref="char:EOLhyphen"/>norable houſhold.</note> 
+               <hi>An<g ref="char:EOLhyphen"/>no</hi> 1606. dedicating the ſame to King <hi>James</hi> of ever happy memory, a Prince o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> incomparable knowledge in all kind of good Learn<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:105045:19"/>
+But having now raiſed a neſt of pernitious hornets about his ears, by the Pub<g ref="char:EOLhyphen"/>liſhing of this <hi>Tractate</hi> (who manifeſted their perniti<g ref="char:EOLhyphen"/>ous malice and gall againſt our Church, by thoſe viru<g ref="char:EOLhyphen"/>lent and ſtingie Pamphlets which they thruſt out and diſperſed:) This cauſed Mr. <hi>Morton,</hi> not long after, to write and Publiſh, <hi>His Full ſatisfaction concerning a double Romiſh iniquity,</hi> viz. <hi>Hainous Rebellion, and more then Heatheniſh Aequivocati<g ref="char:EOLhyphen"/>on:</hi> which Book was writ<g ref="char:EOLhyphen"/>ten in Anſwer to their <hi>Mo<g ref="char:EOLhyphen"/>derate
+<pb n="24" facs="tcp:105045:20"/>
+Anſwer,</hi> (as they cal<g ref="char:EOLhyphen"/>led it) whereof Mr. <hi>Robert Parſons</hi> the <hi>Jeſuite</hi> was the ſuppoſed Author. And this Book likewiſe, Mr. <hi>Morton</hi> dedicated unto King <hi>James,</hi> at which time, His Majeſty was pleaſed to let him know, <hi>how that his adverſary Mr.</hi> Parſons, <hi>was dead, and gaine to the Divill,</hi> as then was his <hi>Scottiſh</hi> Dialect.</p>
+            <p>In the year 1606. he took the Degree of Dr<g ref="char:punc">▪</g> 
+               <hi>in Divi<g ref="char:EOLhyphen"/>nity</hi> in <hi>Cambridge,</hi> where then diſputed againſt him in the <hi>Schools,</hi> that learned, mellifluous, and dexterou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:105045:20"/>
+Diſputant <hi>Dr. Thomas Play<g ref="char:EOLhyphen"/>fer,</hi> the Lady <hi>Margarets</hi> Pro<g ref="char:EOLhyphen"/>feſſor in that famous Uni<g ref="char:EOLhyphen"/>verſity, where <hi>Dr. Morton</hi> ſo learnedly and worthily carried, and demeaned him<g ref="char:EOLhyphen"/>ſelfe, in that <hi>Diſputation,</hi> That the Profeſſor perora<g ref="char:EOLhyphen"/>ted in his juſt prayſe, theſe words, <hi>Laudent te Libri in portis, &amp;c.</hi> In this Com<g ref="char:EOLhyphen"/>mencement, <hi>Doctor Morton</hi> Preached in St. <hi>Maries (pro gradu</hi>) upon that place of holy Scripture, <hi>Gen. 4. 16. Then</hi> Cain <hi>went out from the preſence of the Lord, &amp;c.</hi> At the ſame time, <hi>Dr. John
+<pb n="26" facs="tcp:105045:21"/>
+Overall,</hi> the Reverend <hi>Deane</hi> of St. <hi>Pauls London,</hi> the Kings Profeſſor of <hi>Divinity</hi> adorned him with the Scar<g ref="char:EOLhyphen"/>let Habit and Ring, which are uſed on thoſe ſolemni<g ref="char:EOLhyphen"/>ties for compleating the degree of Dr. in <hi>Divinity.</hi>
+            </p>
+            <p>Not long after, the <hi>Dean<g ref="char:EOLhyphen"/>ary</hi> of <hi>Gloceſter</hi> fell voyd by death, which (upon Arch-Biſhop <hi>Bancroſts</hi> com<g ref="char:EOLhyphen"/>mendation to the King) was conferred upon <hi>Doctor Morton.</hi> About which ſea<g ref="char:EOLhyphen"/>ſon, travelling toward <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> by <hi>Oxon</hi> (the Act there being then kept) he was
+<pb n="27" facs="tcp:105045:21"/>
+welcomed, and highly eſteemed by that thrice learned and famous <hi>Doctor John Raynolds,</hi> Preſident of <hi>Corpus Chriſti College,</hi> and with much Academicall Honour, incorporated <hi>Do<g ref="char:EOLhyphen"/>ctor</hi> in that famous Univer<g ref="char:EOLhyphen"/>ſity; where he was likewiſe much honoured by many other Learned Doctors there, as, <hi>Dr. John King Deane of Chriſt Church,</hi> that moſt powerfull Preacher, (his ancient friend) after<g ref="char:EOLhyphen"/>wards the moſt worthy <hi>Bi<g ref="char:EOLhyphen"/>ſhop of London;</hi> Dr. <hi>Ayrey,</hi> the Learned Provoſt of
+<pb n="28" facs="tcp:105045:22"/>
+               <hi>Queenes College;</hi> Dr. <hi>Aigli<g ref="char:EOLhyphen"/>onbee,</hi> head of <hi>Harts hall,</hi> &amp; with many other Learned and Religious Doctors.</p>
+            <p>At which time there diſ<g ref="char:EOLhyphen"/>puted (<hi>pro gradu Magiſtri</hi>) that hopefull Scholler Mr. <hi>Daniel Featley</hi> Fellow of <hi>Corpus Chriſti College,</hi> who carried himſelfe ſo quickly, and learnedly in his diſpu<g ref="char:EOLhyphen"/>ting, that he was very much admired and applauded (among others) by <hi>Dr. Mor<g ref="char:EOLhyphen"/>ton,</hi> for his ſingular ability in the performance of that exerciſe, as he moſt juſtly deſerved. And indeed (af<g ref="char:EOLhyphen"/>terwards)
+<pb n="29" facs="tcp:105045:22"/>
+he became a moſt able Divine, and ſingular diſputant, as was well known to many that were able to judge; yea, and Dr. <hi>Smith</hi> (who by the <hi>Popes</hi> negative bounty, was after made the titular <hi>Bi<g ref="char:EOLhyphen"/>ſhop of Chalcedon</hi>) felt the weight of his arme, and of thoſe great abilities where<g ref="char:EOLhyphen"/>with <hi>God</hi> had enabled him, when as <hi>Dr. Featley</hi> (being Chaplaine to Sir <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas Edmonds</hi> Knight, His Maje<g ref="char:EOLhyphen"/>ſties Ambaſſador Legier to <hi>Henry</hi> IV<g ref="char:punc">▪</g> the <hi>French</hi> King) he diſputed in <hi>Paris</hi> (be<g ref="char:EOLhyphen"/>fore
+<pb n="30" facs="tcp:105045:23"/>
+a ſelect Company of <hi>Engliſh,</hi> and divers others) with the ſaid <hi>Dr. Smith</hi> in ſundry Points of Religion, to the overthrow, and con<g ref="char:EOLhyphen"/>fuſion of his Adverſary. This <hi>Dr. Featley</hi> was ever after in high favour and eſteeme with <hi>Dr. Morton,</hi> who was his great Benefa<g ref="char:EOLhyphen"/>ctor. But ſince, alas! is dead that learned Divine; but when, and where, po<g ref="char:EOLhyphen"/>ſterity may with juſt griefe <note n="f" place="margin">For not<g ref="char:EOLhyphen"/>with<g ref="char:EOLhyphen"/>ſtanding bis true and known worth, he was exuted (in thoſe late deſtructive times) of his Eccleſiaſticall preform nis, and amongſt many others, impriſoned in the Lord <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> Houſe in <hi>Alderſgate London,</hi> where falling very ſick; at laſt, he had leave to take freſh Aire in the Country, where after a ſhort time. be expired.</note> record. Yet in teſtimony
+<pb n="31" facs="tcp:105045:23"/>
+of his ſingular love, and the Reverend Affection which he bare to <hi>Dr. Mor<g ref="char:EOLhyphen"/>ton,</hi> he wrote and Publiſhed (among many other elabo<g ref="char:EOLhyphen"/>rate <hi>Pieces</hi>) a learned book, which he dedicated to <hi>Dr. Morton,</hi> then Biſhop of <hi>Dur<g ref="char:EOLhyphen"/>ham.</hi>
+            </p>
+            <p>Whilſt <hi>Dr. Morton</hi> was <hi>Deane</hi> of <hi>Gloceſter,</hi> it pleaſed the Right Honorable the Lord <hi>Eure,</hi> Lord Preſident of <hi>Wales,</hi> to nominate and aſſume him to be one of his Majeſties Councell for the Mar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes of <hi>Wales;</hi> which dignity he enjoyed, whilſt
+<pb n="32" facs="tcp:105045:24"/>
+               <hi>Deane</hi> there; in which <hi>Deanary</hi> ſucceeded him, that moſt Learned Divine and Writer <hi>Dr. Richard Field.</hi>
+            </p>
+            <p>Now within three years, <hi>viz.</hi> 1609. was vacant the <hi>Deanary</hi> of <hi>Winton,</hi> by the preferment of <hi>Dr. George Abbot</hi> from that <hi>Deanary,</hi> to the Biſhoprick of <hi>Coventry</hi> and <hi>Leichfeild.</hi> To the which <hi>Deanary</hi> he was de<g ref="char:EOLhyphen"/>ſigned by the Kings moſt gracious favour, with the congratulation and furthe<g ref="char:EOLhyphen"/>rance of his beſt friends in Court, eſpecially of that
+<pb n="33" facs="tcp:105045:24"/>
+incomparably Learned Pre<g ref="char:EOLhyphen"/>late Dr. <hi>Lancelot Andrewes,</hi> then Biſhop of <hi>Elie,</hi> His Majeſties great Almoner. And about this very ſeaſon <hi>Dr. Sibrandus Lubbertus,</hi> Profeſſor of Divinity at <hi>Franckar</hi> in <hi>Weſt Frieſland,</hi> writ a learned Tractate in Latine againſt the <hi>Arminian</hi> Faction, then much prevail<g ref="char:EOLhyphen"/>ing in the <hi>Netherlands;</hi> which Book he inſcribed to Dr. <hi>Morton Deane of Winton:</hi> for which honor, the Deane returned him many thanks in a Latine Epiſtle, where<g ref="char:EOLhyphen"/>in he refuted thoſe hetero<g ref="char:EOLhyphen"/>dox
+<pb n="34" facs="tcp:105045:25"/>
+Opinions, which we<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then on foot.</p>
+            <p>About this time, he wri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that elaborate and learned work, which he intituled <hi>The Appeale;</hi> And almoſt at the ſame time, was vent<g ref="char:EOLhyphen"/>ed by Mr. <hi>Brierley</hi> Prieſt his Book called, <hi>The Prote<g ref="char:EOLhyphen"/>ſsants Apologie;</hi> but know<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was, that he had plowe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Deane <hi>Morton's Heife<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (or Book</hi>) then in the Preſs at <hi>London:</hi> yet was he as <hi>quick<g ref="char:EOLhyphen"/>ly</hi> anſwered by the <hi>Deane,</hi> (at the ſame time) ſo much as eſpecially concerned the doctrinall Part thereof.</p>
+            <p>
+               <pb n="35" facs="tcp:105045:25"/>This taske, of Writing this laſt Book, was impoſed on him by that vigilant Prelate <hi>Arch Biſhop Ban<g ref="char:EOLhyphen"/>croft;</hi> and the examinati<g ref="char:EOLhyphen"/>on of the teſtimonies of the Authors quoted in his <hi>Appeale,</hi> was committed unto Mr. <hi>Thomas James,</hi> (that indeſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igable and la<g ref="char:EOLhyphen"/>borious Keeper of the pub<g ref="char:EOLhyphen"/>lique and famous Library in <hi>Oxon</hi>) and to ſundry other Learned Divines of that Univerſity: but was afterwards finiſhed in his private Library in the Deanary houſe of St. <hi>Pauls
+<pb n="36" facs="tcp:105045:26"/>
+London,</hi> where he then re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ided, <hi>Dr. Overall</hi> his reve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end friend being Deane there. At which time, he was ſought out and ac<g ref="char:EOLhyphen"/>quainted with that truely noble and bountiful <hi>Knight</hi> Sir <hi>George Morton</hi> of <hi>Dorcet<g ref="char:EOLhyphen"/>ſhire,</hi> (his faithfull friend and Couzin) deſcended of the moſt venerable Family of <hi>Arch Biſhop Morton,</hi> who was in his time famous for the happy uniting of the two Royall Houſes of <hi>York</hi> and <hi>Lancaster.</hi>
+            </p>
+            <p>Neer unto this year<note place="margin">1609.</note> 1609. Dr. <hi>Sntcliffe</hi> the <hi>Dean</hi>
+               <pb n="37" facs="tcp:105045:26"/>
+of <hi>Exceter</hi> begun the founding of a College neer <hi>Chelſey</hi> in <hi>Middleſex,</hi> which was to conſiſt of a certain number of Fellows to be imployed (chiefly for the anſwering of ſuch Books as the Popiſh Prieſts ſhould diſperſe, for the impugning of the Orthodox, and true Religion eſtabliſhed in the Church of <hi>England.</hi>) Of which Fellows, the firſt named were, <hi>Dr. John Overall</hi> Dean of St. <hi>Pauls London, Dr. Thomas Morton</hi> Dean of <hi>Winton, Dr. Ri<g ref="char:EOLhyphen"/>chard Field</hi> Dean of <hi>Glouce<g ref="char:EOLhyphen"/>ſter,</hi>
+               <pb n="38" facs="tcp:105045:27"/>
+&amp;c. with other learned and religious Divines Which College was to be indowed by his Majeſty with good Lands in <hi>Chelſey</hi> (then in reverſion) after a few years; and with four<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Farmes in <hi>Devon,</hi> which <hi>Dr. Sutcliffe</hi> gave, to the value of 300 li. <hi>per Annum</hi> beſides other indowments conferred thereupon by the ſaid Dean <hi>Sutcliffe,</hi> for that Religious uſe. Yet for the advancement of that pious work, it was further held neceſſary, to obtain His Majeſties gracious favour
+<pb n="39" facs="tcp:105045:27"/>
+for the deriving and con<g ref="char:EOLhyphen"/>ducting of a Streame of Water forth of the River of <hi>Lee,</hi> unto the Eaſterne Parts of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for the behoof of the Inhabitants there dwel<g ref="char:EOLhyphen"/>ling, and for the benefit and furtherance of that pi<g ref="char:EOLhyphen"/>ous worke. Whereupon thoſe Fellows agreed on <hi>Dr. Morton,</hi> to make a La<g ref="char:EOLhyphen"/>tine Oration to His Maje<g ref="char:EOLhyphen"/>ſty, <note n="*" place="margin">Wherein (among other things, as I remem<g ref="char:EOLhyphen"/>ber) he alluded unto that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lace<g ref="char:punc">▪</g> 
+                  <hi>Gen. 1. Quando Deus ſundavit terram ſuper aquas.</hi>
+               </note> which he performed at <hi>Theobalds</hi> in the Privie Chamber there. Which
+<pb n="40" facs="tcp:105045:28"/>
+Speech being ended, to Hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſties great content; he was graciouſly pleaſed to grant their moſt humble re<g ref="char:EOLhyphen"/>queſt; &amp; riſing up from his Chaire, he openly declared, <hi>That that College ſhould go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forwards,</hi> &amp;c. ſuch then was the Judgement and reſolu<g ref="char:EOLhyphen"/>tion of that pious and ju<g ref="char:EOLhyphen"/>dicious King.</p>
+            <p>Neer unto this ſeaſon,<note place="margin">1610<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Anno</hi> 1610. was held the <hi>Convocation</hi> at St. <hi>Pauls Lon<g ref="char:EOLhyphen"/>don</hi> of the chief Divines in the Province of <hi>Canterbury,</hi> when, and where, Deane <hi>Morton</hi> was choſen to <hi>Preach</hi>
+               <pb n="41" facs="tcp:105045:28"/>
+the <hi>Concio ad Clerum</hi> in St. <hi>Pauls</hi> Church, whoſe Text was, <hi>Mat. 15. 13. Vos eſtis ſalterrae:</hi> by the Preaching whereof, he obtained ſuch favour and eſtimation, that the <hi>Proloeutors</hi> place in the enſuing <hi>Synod,</hi> was by com<g ref="char:EOLhyphen"/>mon ſuffrage caſt upon him. But he modeſtly declined it (on purpoſe) that a reve<g ref="char:EOLhyphen"/>rend friend of his might be adorned with that dig<g ref="char:EOLhyphen"/>nity.</p>
+            <p>And about the ſame time, there was a great fear fell upon the Inhabi<g ref="char:EOLhyphen"/>tants dwelling under the
+<pb n="42" facs="tcp:105045:29"/>
+South ſide of the Cathe<g ref="char:EOLhyphen"/>drall Church of St. <hi>Paul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> London,</hi> which was to be repaired <hi>à fundamentis;</hi> and that therefore (upon King <hi>James</hi> his command) all their houſes were to be pul<g ref="char:EOLhyphen"/>led down from the Eaſt unto the Weſt end of the ſaid Church; which moti<g ref="char:EOLhyphen"/>on did ſo amaze and terrifie the Trunk makers, &amp; other Tradeſmen, whoſe mee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lively-hood conſiſted in their Trades and Houſes that (in that wofull caſe) they repaired unto <hi>Dea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Morton,</hi> then lodging in the
+<pb n="43" facs="tcp:105045:29"/>
+               <hi>Deanary</hi> of St. <hi>Pauls,</hi> and earneſtly beſought him to take their lamentable con<g ref="char:EOLhyphen"/>dition into his Chriſtian thoughts, and to be a means unto His Majeſty to revers that wofull doome. Whereupon the <hi>Dean</hi> took the boldneſs on him to ad<g ref="char:EOLhyphen"/>dreſs a Letter to His ſacred Majeſty, wherein he moſt humbly beſeeched Him to take their miſerable eſtates into His Majeſties moſt pious and Princely conſide<g ref="char:EOLhyphen"/>ration, who were <hi>the living Temples of the holy Ghoſt.</hi> What effect that Letter
+<pb n="44" facs="tcp:105045:30"/>
+took, I know not; this I am aſſured of, that thoſe Houſes ſtood unmoved; yet the repairs of that Ca<g ref="char:EOLhyphen"/>thedrall advanced; untill the late irreparable fire <hi>Anno Dom.</hi> 1665. which deſtroyed, and conſumed that ancient City of <hi>Lond<g ref="char:EOLhyphen"/>don,</hi> together with that ve<g ref="char:EOLhyphen"/>nerable Pile, the Cathe<g ref="char:EOLhyphen"/>drall Church there.</p>
+            <p>A little before this time came out of <hi>France</hi> that lampe of learning, both di<g ref="char:EOLhyphen"/>vine and humane, <hi>Monſieur Iſaac Cauſabon,</hi> who at his firſt arrivall was lodged in
+<pb n="45" facs="tcp:105045:30"/>
+the Deanary of St. <hi>Paule,</hi> (where Dean <hi>Morton</hi> then ſojourned) with whom was contracted that firm friend<g ref="char:EOLhyphen"/>ſhip, and community of Studies betwixt him and Dean <hi>Morton,</hi> which (du<g ref="char:EOLhyphen"/>ring life) was never inter<g ref="char:EOLhyphen"/>rupted. This Phoenix of learning, being after de<g ref="char:EOLhyphen"/>ceaſed; his true friend Dr. <hi>Morton</hi> (being then Biſhop of <hi>Dureſme</hi>) did at his own charge, (in memory of one ſo dear, learned, and loving a friend) erect that Marble Monument over his place of Sepulture in the South
+<pb n="46" facs="tcp:105045:31"/>
+Iſle of St. <hi>Peters</hi> Church in <hi>Weſtminſter,</hi> with Verſes thereon affixed on the Tombe, which were com<g ref="char:EOLhyphen"/>poſed by <hi>Dr. Thomas Goad,</hi> that moſt learned and fa<g ref="char:EOLhyphen"/>mous Divine.</p>
+            <p>And here I muſt make mention of <hi>Dr. Abrahamus Scultetus,</hi> who (<hi>Anno Dom.</hi> 1612.) <milestone type="tcpmilestone" unit="unspecified" n="1612"/> came in to <hi>England,</hi> Chaplaine to the moſt Il<g ref="char:EOLhyphen"/>luſtrious Prince and Palſ<g ref="char:EOLhyphen"/>grave <hi>Frederick</hi> Elector; and alſo <hi>Monſieur Deodati,</hi> the learned Profeſſor of Divinity at <hi>Genevah,</hi> and <hi>Mouſieur Peter du Mouline,</hi>
+               <pb n="47" facs="tcp:105045:31"/>
+that famous Preacher and Writer (whom His Majeſty made <hi>Canon of Canterbury)</hi> with ſundry others, who much rejoyced in <hi>Dean<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Morton</hi>'s acquaintance, be<g ref="char:EOLhyphen"/>twixt whom was maintain<g ref="char:EOLhyphen"/>ed a friendly correſpon<g ref="char:EOLhyphen"/>dence (during life) reſpe<g ref="char:EOLhyphen"/>ctively.</p>
+            <p>About this time, by King <hi>James</hi> his appointment, Dr. <hi>Morton</hi> anſwered a book which was Written by <hi>Car<g ref="char:EOLhyphen"/>dinall Bellarmine,</hi> dedicated to the Prince of <hi>Poland,</hi> and Intituled, <hi>De Officio Princi<g ref="char:EOLhyphen"/>pis Christiani:</hi> which An<g ref="char:EOLhyphen"/>ſwer
+<pb n="48" facs="tcp:105045:32"/>
+Dean <hi>Morton</hi> dedica<g ref="char:EOLhyphen"/>ted to our moſt noble Prince <hi>Charles,</hi> Intituled, <hi>Cauſa Regia;</hi> and (for the Princes uſe) it was conſigned into the hands of Mr. <hi>Murray</hi> his Highneſs Tutor, who pro<g ref="char:EOLhyphen"/>miſed it ſhould be the Prin<g ref="char:EOLhyphen"/>ces Taske, to reade over in then enſuing progreſs.</p>
+            <p>During the time of his continuance in this <hi>Deanary</hi> of <hi>Winton,</hi> he was (amongſt many others) moſt inti<g ref="char:EOLhyphen"/>mate with, and beloved of <hi>Dr. Arthur Lake,</hi> Maſter of St. <hi>Croſſe</hi> neer <hi>Winchester,</hi> a reverend and religious Di<g ref="char:EOLhyphen"/>vine,
+<pb n="49" facs="tcp:105045:32"/>
+(afterwards Biſhop of <hi>Bath</hi> and <hi>Wells,) Dr. John Harmar</hi> the learned <hi>Warden of Wincheſter College, Dr. Ni<g ref="char:EOLhyphen"/>cholas Love,</hi> then School<g ref="char:EOLhyphen"/>maſter, after <hi>Warden</hi> there; and other worthy Divines.</p>
+            <p>At his comming from <hi>Winton,</hi> he Preached a Ser<g ref="char:EOLhyphen"/>mon in the Preached a Ser<g ref="char:EOLhyphen"/>mon in the Cathedrall Church there (when he took his leave of that Learned and Pious Aſſem<g ref="char:EOLhyphen"/>bly) upon thoſe words of <hi>Samuel, (1 S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12. 3.) Whoſe Oxe have I taken? or whoſe Aſſe have I taken? or whom have I defrauded? whom
+<pb n="50" facs="tcp:105045:33"/>
+have I oppreſſed? or o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whoſe hand have I taken any bribe to blind mine eyes therewith?</hi>
+            </p>
+            <p>And having now con<g ref="char:EOLhyphen"/>tinued about nine year<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dean of <hi>Winton,</hi> it pleaſed His ſacred Majeſty, to make choice of him to Govern<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the See and Biſhoprick o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cheſter, (Anno Dom.</hi> 1610.) being at that time much infeſted by perverſe Non<g ref="char:EOLhyphen"/>conformiſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſters. Bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this deſignation and nomi<g ref="char:EOLhyphen"/>nation of him came by a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as he called i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) in a Letter which he wri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="51" facs="tcp:105045:33"/>
+to one he then favoured, in theſe very words; <hi>I ſee it hath pleaſed God by his providence, not to ſuffer m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to remain in the</hi> Dale, <hi>where<g ref="char:EOLhyphen"/>in I could willingly have ſpent my dayes (had there not been an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in it,) and to ſet me upon an</hi> Hill, <hi>(I pray God) as a true light for the good of ſoules, &amp;c.</hi> For as in his former digni<g ref="char:EOLhyphen"/>ties, he was moſt free from <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbitious prolling and ſeeking; ſo was he as in<g ref="char:EOLhyphen"/>nocent from the touch of expecting, or ſo much as deſiring thoſe preferments
+<pb n="52" facs="tcp:105045:34"/>
+which after followed, and were moſt freely conferred on him by thoſe two moſt gracious Princes, King <hi>James,</hi> and King <hi>Charles</hi> hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sonne.</p>
+            <p>But when he ſtood <hi>deſign<g ref="char:EOLunhyphen"/>ed</hi> B<hi rend="sup">p</hi>. of <hi>Cheſter,</hi> agreat O<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (who ſhall here be name<g ref="char:EOLunhyphen"/>leſs) caſt an <hi>undeſerved <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſperſion</hi> upon Dean <hi>Mori<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> unto the King, <hi>viz. Th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he was not fit to be a Biſhop for that he had ſpoyled one <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the beſt Deanaries in</hi> Eng<g ref="char:EOLunhyphen"/>land, <hi>&amp;c.</hi> Which falſe c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lumny, was caſt as a block in the way of his advance<g ref="char:EOLunhyphen"/>ment
+<pb n="53" facs="tcp:105045:34"/>
+to a Biſhoprick: wherewith being made ac<g ref="char:EOLhyphen"/>quainted, he was of neceſ<g ref="char:EOLhyphen"/>ſity to clear himſelfe of ſo foule, and undeſerved an aſperſion; which he did, by communicating the ſame unto his Brethren of the Chapter of <hi>Winton;</hi> who unanimouſly teſtified un<g ref="char:EOLhyphen"/>der their Hands and Seales, <hi>That Doctor</hi> Morton <hi>had been the beſt Dean that ever had been in their times:</hi> And ſome of them were very old men, and had long enjoyed their Dignities in that Cathedrall Church;
+<pb n="54" facs="tcp:105045:35"/>
+as Mr. <hi>Browne,</hi> Mr. <hi>Barlow,</hi> Mr. <hi>Harward, &amp;c.</hi>
+            </p>
+            <p>So then this black cloud of Obloquy being diſpel<g ref="char:EOLhyphen"/>led, he was Conſecrated Biſhop of <hi>Chester</hi> at <hi>Lam<g ref="char:EOLhyphen"/>beth</hi> in the Province o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Canterbury,</hi> by delegation from the Arch-Biſhop of <hi>York,</hi> in whoſe Province <hi>Cheſter</hi> is; where were pre<g ref="char:EOLhyphen"/>ſent many Noble Men, and Gentlemen of the Court but chiefly, a Noble Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Poland,</hi> who had the education of Prince <hi>Rodzi<g ref="char:EOLhyphen"/>vils</hi> Sonne (thither invi<g ref="char:EOLhyphen"/>ted) who very much admi<g ref="char:EOLhyphen"/>red
+<pb n="55" facs="tcp:105045:35"/>
+the ſolemnity of the <hi>Ordination</hi> of the Biſhops in <hi>England,</hi> and the receiving of the bleſſed <hi>Sacrament,</hi> (whereof they then were partakers) as it was Admi<g ref="char:EOLhyphen"/>niſtred according to the Forme of the Church of <hi>England.</hi>
+            </p>
+            <p>And not long after, be<g ref="char:EOLhyphen"/>ing recovered of a violent Fever, which took him at <hi>Clayhall</hi> in <hi>Eſſex,</hi> the Houſe of that Honorable Knight Sir <hi>Chriſtopher Hatton</hi> (his moſt loving and deare friend) he prepared for his Journey into <hi>Cheſhire,</hi> and
+<pb n="56" facs="tcp:105045:36"/>
+advanced with his own re<g ref="char:EOLhyphen"/>tinew towards that Coun<g ref="char:EOLhyphen"/>try, but was encountred and met on the way to the City of <hi>Cheſter,</hi> by ſo grand a number of the beſt Knights and Gentlemen of that County <hi>Palatine,</hi> with their attendants, and that multitude of Plebeyans, thronging and rejoycing at the receipt of their new Biſhop, that the like hath ſcarce been ſeen there, and perhaps in few places elſe where.</p>
+            <p>After a ſmall time of his ſettlement there, like
+<pb n="57" facs="tcp:105045:36"/>
+a true Biſhop, (and one mindfull of what he was ſent for) he convented the <hi>Non-conformiſt Miniſters,</hi> and called on them to ſhew the Reaſons of their diſſent<g ref="char:EOLhyphen"/>ing from the Orders and Diſcipline of the Church; and told them, <hi>That his purpoſe was, to conferr with them publickly, to reduce them to conformity with the Church of</hi> England. At which time thoſe Miniſters inſiſted on thoſe three Points: Firſt, <hi>Croſſe</hi> 
+               <note n="h" place="margin">Or ra<g ref="char:EOLhyphen"/>ther af<g ref="char:EOLhyphen"/>ter <hi>Bap<g ref="char:EOLhyphen"/>tiſme,</hi> as indeed it is.</note> 
+               <hi>in Baptiſe.</hi> Secondly, <hi>Kneel<g ref="char:EOLhyphen"/>ing at the receiving of the
+<pb n="58" facs="tcp:105045:37"/>
+Lords Supper.</hi> Thirdly, <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Surplice, &amp;c.</hi> In which con<g ref="char:EOLhyphen"/>ference he argued with them very zealouſly, and endeavoured by many Ar<g ref="char:EOLhyphen"/>guments to reduce the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to conformity with the Church of <hi>England;</hi> but i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the end, fell ſhort of hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pious expectation. Yet no prevailing with thoſe re<g ref="char:EOLhyphen"/>fractory Miniſters; not with<g ref="char:EOLhyphen"/>ſtanding, he wrought great work, by Gods mo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gracious hand and aſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtance, (yea, neer the ve<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſame time) by reclaimin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and reducing many of t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="59" facs="tcp:105045:37"/>
+               <hi>Lancaſhire</hi> Recuſants, and in bringing them home to the true Church, through his induſtrious vigilance.</p>
+            <p>And not long after, he Writ and Publiſhed a <hi>Rela<g ref="char:EOLhyphen"/>tion</hi> of that <hi>Conference,</hi> which was inſcribed, <hi>The three innocent Ceremonies;</hi> which Book long after (he being Biſhop of <hi>Coventry</hi> and <hi>Leichfeild</hi>) was im<g ref="char:EOLhyphen"/>pugned by one Mr. <hi>Ames,</hi> (as was conceived) but moſt learnedly anſwered and defended by <hi>Dr. John Burges</hi> Parſon of <hi>Sutton Cobfeild</hi> in <hi>Warr<g ref="char:punc">▪</g>.</hi> after that
+<pb n="60" facs="tcp:105045:38"/>
+               <hi>Doctor Morton</hi> had been many years Biſhop of <hi>Co<g ref="char:EOLhyphen"/>ventry</hi> and <hi>Leichfeild.</hi>
+            </p>
+            <p>About this time <milestone type="tcpmilestone" unit="unspecified" n="1617"/> (<hi>viz. Anno</hi> 1617.) the Kings Majeſty returned out of his Progreſs from <hi>Scotland,</hi> and paſſed through <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> where he was Peti<g ref="char:EOLhyphen"/>tioned by the <hi>Plebeyans</hi> of that County, for <hi>Recreation</hi> to be allowed on the Lords day; which was according<g ref="char:EOLhyphen"/>ly gratiouſly granted by His Majeſty. Whereupon, they growing inſolent, and being incouraged and heartened by ſome Gentle<g ref="char:EOLhyphen"/>men
+<pb n="61" facs="tcp:105045:38"/>
+who were Popiſh Re<g ref="char:EOLhyphen"/>cuſants, they made ill uſe of the Kings gracious cle<g ref="char:EOLhyphen"/>mency; and thereupon Bi<g ref="char:EOLhyphen"/>ſhop <hi>Morton</hi> made his hum<g ref="char:EOLhyphen"/>ble addreſs unto His Maje<g ref="char:EOLhyphen"/>ſty, and acquainted him with ſundry particulars of their abuſe of His well<g ref="char:EOLhyphen"/>meant gracious favour: Whereupon it pleaſed His Majeſty, to command the Biſhop, to adde what cauti<g ref="char:EOLhyphen"/>ons and reſtrictions he thought fit to be inſerted into His Majeſties <hi>Declara<g ref="char:EOLhyphen"/>tion</hi> for that purpoſe, which was accordingly done, <hi>viz.
+<pb n="62" facs="tcp:105045:39"/>
+That they ſhould have no li<g ref="char:EOLhyphen"/>berty for recreation till after Evening Prayer: That they ſhould have no Beare-baiting nor any ſuch unlawfull ſports: And that no Recuſant, who came not to Morning and Eve<g ref="char:EOLhyphen"/>ning Prayers, ſhould be capa<g ref="char:EOLhyphen"/>ble of ſuch His Royall indul<g ref="char:EOLhyphen"/>gence at all, &amp;c.</hi>
+            </p>
+            <p>Having now reſided to<g ref="char:EOLhyphen"/>wards three years in that Biſhoprick, it pleaſed the Royall Majeſty of King <hi>James,</hi> to cauſe him to be tranſlated to the See of <hi>Coventry</hi> and <hi>Leichfeild,</hi> where he ſucceeded that
+<pb n="63" facs="tcp:105045:39"/>
+profound Doctor <hi>John Ove<g ref="char:EOLhyphen"/>rall,</hi> who was newly re<g ref="char:EOLhyphen"/>moved thence to the Bi<g ref="char:EOLhyphen"/>ſhoprick of <hi>Norwich,</hi> in the year of our Lord 1618. <milestone type="tcpmilestone" unit="unspecified" n="1618"/>
+            </p>
+            <p>And in the Biſhoprick of <hi>Cheſter</hi> ſucceeded him, Dr. <hi>John Bridgeman,</hi> one of the famous Preachers of his time; the more to be honored, becauſe it pleaſed God to bleſs him with a Sonne, Sir <hi>Orlando Bridge<g ref="char:EOLhyphen"/>man</hi> Knight, now <hi>Lord Keeper of the Great Seale of England;</hi> which High Place may he long enjoy for the good of this Kingdom, and
+<pb n="64" facs="tcp:105045:40"/>
+honour of the Married Clergy.</p>
+            <p>In the time of his In<g ref="char:EOLhyphen"/>cumbence in the <hi>Biſhoprick</hi> of <hi>Coventry</hi> and <hi>Leichfeild,</hi> he was acquinted with that grave and learned Scholler <hi>Marcus Antonius de Domi<g ref="char:EOLhyphen"/>nis,</hi> late Arch-Biſhop of <hi>Spalato</hi> in <hi>Dalmatia,</hi> Saint <hi>Hierome</hi>'s Countrey-man, (as he often uſed to call himſelfe) who had renoun<g ref="char:EOLhyphen"/>ced Popery, and paſſed over into <hi>England,</hi> to draw the freſh and pure Ayre of Chriſts true Religion:
+<pb n="65" facs="tcp:105045:40"/>
+which yet ſome few years after, <note n="i" place="margin">The moſt infamous <hi>Eccboli<g ref="char:EOLhyphen"/>us</hi> of our times; whoſe Corps were af<g ref="char:EOLhyphen"/>terwards burned at <hi>Rome</hi> for a Relaps.</note> he moſt wretchedly deſerted in hope of higher preferment at <hi>Rome,</hi> upon the aſſurance which he built of his <hi>Quondam School<g ref="char:EOLhyphen"/>fellows</hi> Election to the Pa<g ref="char:EOLhyphen"/>pacy, by the name of <hi>Gre<g ref="char:EOLhyphen"/>gory the fifteenth.</hi> But this Pope was quickly rid out of the way, and another <hi>Pharaoh</hi> ſucceeded, who knew not this <hi>Joſeph.</hi> But his change of Religion was the more to be won<g ref="char:EOLhyphen"/>dred at, for that by His Majeſties gracious bounty
+<pb n="66" facs="tcp:105045:41"/>
+he had been <note n="k" place="margin">Theſe, though competent Prefer<g ref="char:EOLhyphen"/>ments, could not allay, or quench his <hi>ſacred thirſt:</hi> for I have ſeen the Copy of a Letter, (which was ſhewed unto me by <hi>D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Bal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<g ref="char:EOLhyphen"/>quall,</hi> his ſucceſſour in the Savoy,) in which it appeared, That he became a Suit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r unto King. <hi>James for the Arch-Biſhoprick of York,</hi> then rumored to be voyd, by the death of <hi>Doctor Toby Matthew</hi> the <hi>Arch-Biſhop</hi> there; though be happily outlived tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> preferred to the <hi>Deanary</hi> of <hi>Windſor,</hi> and the Maſterſhip of the <hi>Savoy,</hi> with the Rectory of <hi>Ilſworth,</hi> and was yearly preſented by many of the Nobility, and Biſhops of this Kingdom, with ſundry rich gifts in Plate, and other coſtly accoutre<g ref="char:EOLhyphen"/>ments. All which not with<g ref="char:EOLhyphen"/>ſtanding, in the end he de<g ref="char:EOLhyphen"/>ſerted the Church of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi>
+               <pb n="67" facs="tcp:105045:41"/>
+Yet upon a ſpecious pretence, forſooth, (as he gave it out) of <hi>Reconciling the Church of</hi> England, <hi>with the Church of</hi> Rome.</p>
+            <p>Whereupon, about the ſame time, and on this ve<g ref="char:EOLhyphen"/>ry occaſion, fell out the following paſſage betwixt him, and Biſhop <hi>Morton:</hi> For being asked by the ſaid Biſhop thus: <hi>Domine, quid tibi in animo eſt, convertere Papam? Etiam, Conclave Papale?</hi> Spal. <hi>Quidni, an exiſtimas eos eſſe Diabolos, ut non poſſint converti?</hi> Epiſc. Coven. <hi>Minime Domine, ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="68" facs="tcp:105045:42"/>
+puto Dominum Spalatenſem eſſe De<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, qui hoc preſtare poſſit. Noſtine Domine, Ca<g ref="char:EOLhyphen"/>nones iſtos Conc'. Tridentini<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Spalat. <hi>Imò novi, &amp; auſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſum tibi dicere, Millies mille eſſe in</hi> Italia, <hi>qui fidem nul<g ref="char:EOLhyphen"/>lam huic Concilio adhibent.</hi> This paſſage is worth the tranſlating: The Biſhop of <hi>Leichfeild</hi> asked him, <hi>What my Lord, is it your purpoſe to convert the Pope? Yea, and the Papal Conclave to,</hi> Spal. <hi>And why not? doe you think them to be Devils, that they cannot be conver<g ref="char:EOLhyphen"/>ted?</hi> Biſhop Leichfeild, <hi>No,
+<pb n="69" facs="tcp:105045:42"/>
+my Lord, nor doe I think my Lord of</hi> Spalato <hi>to be a God, who is abl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to performe ſo much. Doe you know, my Lord, thoſe Canons in the Council of</hi> Trent? Spal. <hi>Yea, I know them well, and I dare boldly ſay, that there be many thouſands of</hi> Italy <hi>who give no Faith to this Council,</hi> &amp;c. However this paſſed, away he went, and ſince gone, he would be gone: he was formerly ba<g ref="char:EOLhyphen"/>niſhed, and commanded a<g ref="char:EOLhyphen"/>way out of <hi>England</hi> by the Kings ſtrict command. But being arived at <hi>Rome,</hi> the
+<pb n="70" facs="tcp:105045:43"/>
+caſe was altered, the for<g ref="char:EOLhyphen"/>iner Pope, his friend, being dead; and becauſe he did not, or rather, could not anſwer the Books, or ra<g ref="char:EOLhyphen"/>ther the authorities there<g ref="char:EOLhyphen"/>in, quoted out of the an<g ref="char:EOLhyphen"/>tient Fathers, which he had Publiſhed and Printed at <hi>London, De Repub. Chri<g ref="char:EOLhyphen"/>ſtiana,</hi> and others, he found the juſt guerdon of his re<g ref="char:EOLhyphen"/>volt: for it was adjudged in the <hi>Holy Office,</hi> (as they call the Inquiſition) that his Corps, being firſt ſtrang<g ref="char:EOLhyphen"/>led in the Caſtle of St. <hi>An<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> ſhould be burned <hi>in
+<pb n="71" facs="tcp:105045:43"/>
+Campo Flori:</hi> yet had he been fairely premoniſhed and minded hereof by our Biſhop, who writ a large and learned Epiſtle <note n="l" place="margin">Now ready for the Proſs<g ref="char:punc">▪</g> after long and gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at deſiring the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof<g ref="char:punc">▪</g>
+               </note> unto him in Latine a little be<g ref="char:EOLhyphen"/>fore his departure, which was conſigned into his hands by the Writer here<g ref="char:EOLhyphen"/>of; wherein, <hi>as a true Pro<g ref="char:EOLhyphen"/>phet,</hi> he warned him of that which came after to paſſe, <hi>viz. His Treatment at</hi> Rome: Yet notwith<g ref="char:EOLhyphen"/>ſtanding, upon the receipt of that Letter, the <hi>Arch-Biſhop</hi> teſtified his friendly reſpects unto our <hi>Biſhop</hi> at
+<pb n="72" facs="tcp:105045:44"/>
+the farewell of the bear<g ref="char:EOLhyphen"/>er, in theſe very words, <hi>Salutes millies mille di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as Do<g ref="char:EOLhyphen"/>mino t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o nomine meo.</hi> 
+               <note n="m" place="margin">It was often in h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mouth, <hi>Ego<g ref="char:punc">▪</g> mo<g ref="char:EOLhyphen"/>riar Ar<g ref="char:EOLhyphen"/>chiepiſ<g ref="char:EOLhyphen"/>copus Spala<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<g ref="char:punc">▪</g>
+                  </hi>
+               </note>
+            </p>
+            <p>During the time of his Government of this large Dioces of <hi>Coventry</hi> and <hi>Leiehfeild,</hi> there hapned a Boy of the Village of <hi>Bil<g ref="char:EOLhyphen"/>ſon</hi> neer <hi>Wolverhampton</hi> in the County of <hi>Stafford,</hi> called <hi>George Purie,</hi> who was ſeduced by the <hi>Po<g ref="char:EOLhyphen"/>piſh Prieſts</hi> to become a <hi>Demoniack</hi> (which thing he did, as they tutored him) whom after a ſmall ſeaſon,
+<pb n="73" facs="tcp:105045:44"/>
+they a Gods name muſt diſpoſſeſs. But yet all their working, and fine deviſes, were to very ſmall, or no purpoſe; for the Devill had ſo wrought with the <note n="n" place="margin">
+                  <hi>The Devill had</hi> ſteel<g ref="char:EOLhyphen"/>ed <hi>his heart.</hi> I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own wor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ex<g ref="char:EOLhyphen"/>preſſion in his Confeſſi<g ref="char:EOLhyphen"/>on after<g ref="char:punc">▪</g> wards.</note> 
+               <hi>Boy,</hi> that he accuſed a Woman, and ſhe a Papiſt, for be<g ref="char:EOLhyphen"/>witching him: whereup<g ref="char:EOLhyphen"/>on, ſhe was committed to the County Goale at <hi>Staf<g ref="char:EOLhyphen"/>ford,</hi> and this <hi>Boy</hi> was brought to the Aſſizes to confront her: where, be<g ref="char:EOLhyphen"/>fore the Judges of Aſſize, this <hi>Boy,</hi> albeit hood<g ref="char:EOLhyphen"/>winckt, would ſeem to know of the woman Priſo<g ref="char:EOLhyphen"/>ner
+<pb n="74" facs="tcp:105045:45"/>
+her comming to the Barr, which he did, as after<g ref="char:EOLhyphen"/>wards he confeſſed, by the jingling of her Chains, and divers ſtrange prancks he there played, in the face of the country as a <hi>Demoniack,</hi> or perſon poſſeſſed, ſo that at the laſt, he was com<g ref="char:EOLhyphen"/>mitted, and recommend<g ref="char:EOLhyphen"/>ed by the learned Judg<g ref="char:EOLhyphen"/>es of Aſſize unto Dr. <hi>Mor<g ref="char:EOLhyphen"/>ton,</hi> Biſhop of the Dioceſs, (being then one of His Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace) who brought him unto <hi>Eccleſhal Castle,</hi> where he then reſided; and after a
+<pb n="75" facs="tcp:105045:45"/>
+competent time, found him to be a cunning Impo<g ref="char:EOLhyphen"/>ſter. Which things, and many moe, were layed open to Publick view, in a Book Intituled, <hi>The Boy of Bilſon.</hi> But afterwards, he much deteſted, and loathed the former couſening cheats, and was bound Apprentice in <hi>Briſtol.</hi>
+            </p>
+            <p>How this Biſhop ſpent his time in that Biſhoprick of <hi>Coventry</hi> and <hi>Leichfeild,</hi> his continuall Labors teſti<g ref="char:EOLhyphen"/>fie, <hi>viz.</hi> chiefly in <hi>Preach<g ref="char:EOLhyphen"/>ing the Word of God;</hi> part<g ref="char:EOLhyphen"/>ly in <hi>Writing Books</hi> profi<g ref="char:EOLhyphen"/>table
+<pb n="76" facs="tcp:105045:46"/>
+to the Church of God; partly in Conference with <hi>Recuſants,</hi> and <hi>Cate<g ref="char:EOLhyphen"/>chizing</hi> of his own Family weekly, &amp;c. But for his free <hi>Hoſpitality,</hi> both at <hi>Eccleſhall</hi> and <hi>Leichfeild,</hi> and his continuall relieving of the poor; let them te<g ref="char:EOLhyphen"/>ſtifie who were eye-witneſ<g ref="char:EOLhyphen"/>ſes, of which <hi>many are fallen aſleep,</hi> and perhaps, <hi>ſome remain to this day.</hi>
+            </p>
+            <p>Whiles he was Biſhop here, he had ſundry learned men for his Chaplains, eſpe<g ref="char:EOLhyphen"/>cially that Reverend and Pious man of God Doctor
+<pb n="77" facs="tcp:105045:46"/>
+               <hi>Ralph Brownrigg,</hi> on whom he collated the <hi>Arch-dea<g ref="char:EOLhyphen"/>conry</hi> of <hi>Coventry</hi> (when Biſhop of <hi>Leichfeild</hi>) and afterwards a good Prebend in the Cathedrall Church of <hi>Durham;</hi> which digni<g ref="char:EOLhyphen"/>ties His Royall Majeſty King <hi>Charles</hi> did Crowne with the Biſhoprick of <hi>Ex<g ref="char:EOLhyphen"/>eter,</hi> Mr. <hi>Stephen Haxbie,</hi> and Mr. <hi>George Gippes,</hi> both fellows of St. <hi>Johns</hi> in <hi>Cambridge,</hi> and Mr. <hi>Iſaac Baſire,</hi> with ſome others, on whom he freely beſtow<g ref="char:EOLhyphen"/>ed ſuch ſpirituall prefer<g ref="char:EOLhyphen"/>ments as fell in his Patro<g ref="char:EOLhyphen"/>nage.</p>
+            <p>
+               <pb n="78" facs="tcp:105045:47"/>Here I muſt not forget that bleſſed Saint of God, Mr. <hi>George Canner,</hi> a blinde young man (for blinde he came into the world) borne in the County of <hi>Lancaſter,</hi> whom (with his Unckle, who had the tuition of him) this Biſhop maintain<g ref="char:EOLhyphen"/>ed both at the Grammer Schoole in <hi>Cheſter,</hi> when Biſhop there, and after in the Univerſity, till he be<g ref="char:EOLhyphen"/>came <hi>Batchelor</hi> of <hi>Arts</hi> in the Univerſity of <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> where he proved an excellent proficient: And after Orders taken, he
+<pb n="79" facs="tcp:105045:47"/>
+placed him Curate at <hi>Clif<g ref="char:EOLhyphen"/>ton Canvile</hi> in <hi>Stafford-ſhire,</hi> (when he was Biſhop of <hi>Leichfeild</hi>) where he diſ<g ref="char:EOLhyphen"/>charged that ſacred Functi<g ref="char:EOLhyphen"/>on, by his diligent Preach<g ref="char:EOLhyphen"/>ing, even unto admiration; for the book of <hi>Common Prayer</hi> (as the Church of <hi>England</hi> requireth and en<g ref="char:EOLhyphen"/>joyneth) he could repeat by heart, and underſtand the Rubrick ſufficiently. As for the Chapters in the Old and New Teſtament, (which were to be Read to the Congregation) he had them perfectly by heart, by
+<pb n="80" facs="tcp:105045:48"/>
+his Unckles twice Reading them over unto him: For the Adminiſtration of the bleſſed Sacrament of <hi>Bap<g ref="char:EOLhyphen"/>tiſme,</hi> and the <hi>Lords Supper,</hi> he medled not therewith, but had them diſcharged by another neighbouring Miniſter. As for his Diet, it was courſe, ſmall, and not coſtly, for he never exceed<g ref="char:EOLhyphen"/>ed <hi>bread, butter,</hi> and <hi>cheeſe;</hi> no kind of fleſh meat would goe down with him, nor could he indeed, digeſt it. His converſation was innocent, modeſt, chaſt, and ſpotleſs, whom Al<g ref="char:EOLhyphen"/>mighty
+<pb n="81" facs="tcp:105045:48"/>
+God tranſlated hence (being but young in years, about 26.) unto his heavenly Kingdom of glo<g ref="char:EOLhyphen"/>ry. His dying words were theſe, <hi>Lord take from me theſe raggs of mortality, and cloth me with thy robes of im<g ref="char:EOLhyphen"/>mortality.</hi>
+            </p>
+            <p>From this Biſhoprick of <hi>Coventry and Leichfeild (An<g ref="char:EOLhyphen"/>no</hi> 1633.) <milestone type="tcpmilestone" unit="unspecified" n="1633"/> it pleaſed the Royall Majeſty of King <hi>Charles</hi> the firſt, to preferr him to the dignity of the Epiſcopall See of <hi>Dureſme,</hi> to which Biſhoprick (be<g ref="char:EOLhyphen"/>fore the Conqueſt) was
+<pb n="82" facs="tcp:105045:49"/>
+united the Prerogative of a <hi>County Palatine.</hi> And here with what Integrity, Ju<g ref="char:EOLhyphen"/>ſtice, Temperance, and other Chriſtian vertues, (eſpecially his liberall and free compoſition with his Tenants, whereof many in<g ref="char:EOLhyphen"/>ſtances might be given, if need were) I had rather the late memory of him ſhould ſpeak, who is yet living in a private and con<g ref="char:EOLhyphen"/>tented eſtate (after the Apoſtles diet, <hi>Having mea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and drink, &amp;c.</hi>) and after his late injurious ejection out of that plentifull Bi<g ref="char:EOLhyphen"/>ſhoprick
+<pb n="83" facs="tcp:105045:49"/>
+in a very old age, <note n="o" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he was then aged: but he dy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, <hi>Anno 1659. Aetatis 95.</hi>
+               </note> which is 93. in this pre<g ref="char:EOLhyphen"/>ſent yeare of our Lord, 1657. and was never Mar<g ref="char:EOLhyphen"/>ried, but hath led a ſingle, and painfull life.</p>
+            <p>He hath had, being Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Dureſme,</hi> ſundry eminent Schollers for his domeſtick Chaplains, as Dr. <hi>Joſeph Nayler</hi> (whom <hi>God</hi> hath newly tranſlated) on whom he collated the rich Rectory of <hi>Sedgefeild,</hi> and a Prebend in the Ca<g ref="char:EOLhyphen"/>thedrall Church of <hi>Du<g ref="char:EOLhyphen"/>reſme:</hi> Mr. <hi>John Johnſon,</hi> a <hi>Londoner</hi> borne, a godly,
+<pb n="84" facs="tcp:105045:50"/>
+learned, and faithfull Preacher of the Word of God (with whom he lives in eternall bleſſedneſs) whom he conſtituted to the Rectory of <hi>Biſhop Weremouth;</hi> and alſo Mr. <hi>William Flathers,</hi> long ſince departed; Dr. <hi>Ferne,</hi> 
+               <note n="p" place="margin">Lately Maſter of <hi>T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ini<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y College</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge: Deane</hi> of <hi>Ely;</hi> and <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ly, <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> of <hi>C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſter,</hi> by King <hi>Charles <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</hi> his <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Since <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God.</note> a re<g ref="char:EOLhyphen"/>verend and learned Divine, as his excellent Treatiſes Writ and Publiſhed in theſe late ſad times doe ſuffici<g ref="char:EOLhyphen"/>ently ſpeak him; Mr. <hi>Evers Gower,</hi> ſince departed, on whom he collated the Re<g ref="char:EOLhyphen"/>ctory of <hi>Stanhopp,</hi> and <hi>Arch<g ref="char:EOLhyphen"/>deaconry</hi> of <hi>Northumberland;</hi>
+               <pb n="85" facs="tcp:105045:50"/>
+as alſo, the afore-named Dr. <hi>Iſaac Baſier,</hi> whom he Ordained <hi>Deacon,</hi> and after that <hi>Prieſt,</hi> when Biſhop of <hi>Leichfeild;</hi> and being tran<g ref="char:EOLhyphen"/>ſlated to <hi>Dureſme,</hi> he col<g ref="char:EOLhyphen"/>lated on him the fore-na<g ref="char:EOLhyphen"/>med Rectory of <hi>Stanhopp,</hi> with a good <hi>Prebend</hi> in the Cathedrall Church of <hi>Du<g ref="char:EOLhyphen"/>reſme,</hi> and the <hi>Archdeaconry</hi> of <hi>Northumberland.</hi> Of this learned Gentleman much might be ſaid, who is living ſtill, though far remote, for in theſe late heavy and do<g ref="char:EOLhyphen"/>lorous times, he was forced to ſit down, yet with ho<g ref="char:EOLhyphen"/>nor,
+<pb n="86" facs="tcp:105045:51"/>
+(after more then his <hi>
+                  <g ref="char:V">Ʋ</g>liſſian</hi> Travails in three parts of the known world) Profeſſor of Divinity at <hi>Alba Julia</hi> in <hi>Tranſilvania</hi> 
+               <note n="q" place="margin">But now, af<g ref="char:EOLhyphen"/>ter 16. years pe<g ref="char:EOLhyphen"/>regrinati<g ref="char:EOLhyphen"/>on, he is returned home, in the halcy<g ref="char:EOLhyphen"/>on dayes of King <hi>Charles II.</hi> his auſpicious and happy reigne, enjoying his former prefer<g ref="char:EOLhyphen"/>ments.</note> As alſo Mr. <hi>Richard Wrench</hi> Batchelor in Divinity, ſom<g ref="char:EOLhyphen"/>times Fellow of St. <hi>Johns</hi> in <hi>Cambridge:</hi> And laſtly, Dr. <hi>John Barwick,</hi> firſt Dean of <hi>Durham,</hi> after that, of St. <hi>Pauls London,</hi> lately deceaſed.</p>
+            <p>This Biſhop was ſuch an indefatigable Student, and ſuch a conſtant <hi>Heluo libro<g ref="char:EOLhyphen"/>rum,</hi> that whether he paſ<g ref="char:EOLhyphen"/>ſed by Water, or rid on
+<pb n="87" facs="tcp:105045:51"/>
+Horſeback (as he uſed in his private eſtate) or tra<g ref="char:EOLhyphen"/>velling in his Coach, (af<g ref="char:EOLhyphen"/>ter that he had obtained greater preferments) he had alwayes ſome choice and uſefull book, which he either read himſelfe, or els cauſed a Chaplaine, or his <hi>Amanuenſis</hi> to reade unto him, who attended on him Journying. And very ſel<g ref="char:EOLhyphen"/>dome, or never, did he goe to his bed, but his devoti<g ref="char:EOLhyphen"/>ons ended in publique with his Family, and afterwards more privately by himſelf; his bed-chamber ſervants,
+<pb n="88" facs="tcp:105045:52"/>
+who had been uſually Uni<g ref="char:EOLhyphen"/>verſity Schollers, continued their tasks in reading ſome other pious books, or ſome Church Hiſtory unto him, till ſuch time as acceptable ſleep ſtole upon him, and ſo relieved and diſcharged them of that duty. And when he did ſleep, it was very moderate, or rather ſmall, for (as I have ſaid) he either continued read<g ref="char:EOLhyphen"/>ing himſelf, or others read<g ref="char:EOLhyphen"/>ing unto him, till late at night, and after ſome few houres repoſe, he was al<g ref="char:EOLhyphen"/>wayes ready to fall on his
+<pb n="89" facs="tcp:105045:52"/>
+Study afreſh with early <hi>Aurora.</hi>
+            </p>
+            <p>For an example of his Piety, and generall care which he took in his Dio<g ref="char:EOLhyphen"/>ceſs, for the fuller in<g ref="char:EOLhyphen"/>ſtructing of Children in the Grounds of Religion, he cauſed many thouſands of <hi>Catechiſmes</hi> (according to that forme which is pre<g ref="char:EOLhyphen"/>ſcribed in the Book of Common Prayer) to be Printed at his own charge, and to be diſperſed in the ſeveral <hi>Deanaries</hi> and <hi>Arch<g ref="char:EOLhyphen"/>deaconries</hi> of the Dioceſſes where he had been Biſhop,
+<pb n="90" facs="tcp:105045:53"/>
+which he commanded his (reſpective) <hi>Chancellors, Re<g ref="char:EOLhyphen"/>giſters,</hi> and other Eccleſi<g ref="char:EOLhyphen"/>aſticall <hi>Officers,</hi> in their pla<g ref="char:EOLhyphen"/>ces, to diſtribute in every Pariſh; and like wiſe admo<g ref="char:EOLhyphen"/>niſhed the ſeverall Mini<g ref="char:EOLhyphen"/>ſters, to be diligent and carefull in the due Cate<g ref="char:EOLhyphen"/>chiſing of their youth, ac<g ref="char:EOLhyphen"/>cording to that Forme.</p>
+            <p>For his manner of Lodg<g ref="char:EOLhyphen"/>ing, Diet, and Study-gar<g ref="char:EOLhyphen"/>ments, they might have been (if you will) of ano<g ref="char:EOLhyphen"/>ther <hi>Anthony,</hi> for the never could endure a ſoft, much leſs a downe bed, but ei<g ref="char:EOLhyphen"/>ther
+<pb n="91" facs="tcp:105045:53"/>
+a Matreſs, or a ſingle Quilt, which was his uſuall lodging. His Study<g ref="char:punc">▪</g> gowne was ſometimes of a courſe black hairy rugg: and his conſtant Diet (when not viſited by ſtrangers) was one meale a day through almoſt the whole courſe of his life; which in his mid<g ref="char:EOLhyphen"/>dle age, and before he was Biſhop, was uſually a Sup<g ref="char:EOLhyphen"/>per; in his declining age, and after he was Biſhop, uſually a Dinner, and that but a bare and ſlender one to himſelf, though bounti<g ref="char:EOLhyphen"/>full, and plentifull to all
+<pb n="92" facs="tcp:105045:54"/>
+others his Commenſals. He very ſeldome, or never drunk ſtrong drink; and wine moſt rarely, and that in a very ſmall quantity, as perhaps might warme his mouth, but ſcarcely his ſtomach, for his health be<g ref="char:EOLhyphen"/>ing conſtantly good, and his bodily <note n="r" place="margin">Sa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Cheſter</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Stone, v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yding one, and but <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> at that time his ſiſter Miſtris <hi>Joan Roſe</hi> prepa<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> him a diſtilled drink<g ref="char:punc">▪</g> which gave him preſent eaſe, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (by <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ods bleſſing) did remedy that Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, ſo the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was ſcarce ever troubled therewith.</note> infirmities few or little, (indeed his abſte<g ref="char:EOLhyphen"/>miouſneſs was very great) and (I beleive) this later
+<pb n="93" facs="tcp:105045:54"/>
+was a great preſerver of the former.</p>
+            <p>I might further tell you, That he never Purchaſed one foot of Land (what <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he ſold) nor other temporall Poſſeſſion in all his long life, notwithſtand<g ref="char:EOLhyphen"/>ing his plentifull incomes; but as his Revenues in<g ref="char:EOLhyphen"/>creaſed, ſo were they ex<g ref="char:EOLhyphen"/>pended (as I have formerly noted) in Hoſpitable, cha<g ref="char:EOLhyphen"/>ritable, and other Chriſti<g ref="char:EOLhyphen"/>an uſes; which thing may partly appear by his being ſo bare, and unprovided at the beginning of the late
+<pb n="94" facs="tcp:105045:55"/>
+turbulent and trayterous times; ſo that when he was committed under the <hi>black Rodd</hi> (for proteſting againſt thoſe uncivill tumults then on foot) he had ſcarcely wherewith to defrey the Fees and Charges of his Confinement, which is the leſs to be wondred at, that he was not ſo plentifull in his Purſe, and the rather, conſidering the great and extraordinary <hi>charges which</hi> he was put to, by the fre<g ref="char:EOLhyphen"/>quent entertainment of <hi>Scottiſh</hi> Lords, and others who Poſted too and fro,
+<pb n="95" facs="tcp:105045:55"/>
+eſpecially about the time of the <hi>Scottiſh</hi> Inſurrection, <hi>Durham</hi> being in their Northern Road, <hi>Ah! nimi<g ref="char:EOLhyphen"/>um vicina Scotis Dunelmia.</hi>
+            </p>
+            <p>He never Ordained any for <hi>Prieſts</hi> and <hi>Deacons,</hi> (which he commonly did at the foure Ordinations) but ſuch as were Graduates in the Univerſity (or other<g ref="char:EOLhyphen"/>wiſe well qualified in good Learning:) And for a try<g ref="char:EOLhyphen"/>all of their Parts, he al<g ref="char:EOLhyphen"/>wayes appointed a ſet time to examine them in Uni<g ref="char:EOLhyphen"/>verſity Learning; but chiefly in Points of Divini<g ref="char:EOLhyphen"/>ty;
+<pb n="96" facs="tcp:105045:56"/>
+and in this he was very exact, by making them an<g ref="char:EOLhyphen"/>ſwer Syllogiſtically, accord<g ref="char:EOLhyphen"/>ing to their abilities. And he truſted not his own Chaplains in this ſacred buſineſs, though otherwiſe, very able and learned Di<g ref="char:EOLhyphen"/>vines.</p>
+            <p>He never conferred any Benefice, or Spirituall Pre<g ref="char:EOLhyphen"/>ferment, chiefly whiles he was Biſhop of <hi>Dureſme,</hi> (being a moſt free and bountifull Patron) but on his own learned Chaplains, except three onely, which were commended unto him
+<pb n="97" facs="tcp:105045:56"/>
+by King <hi>Charles</hi> I. his ſa<g ref="char:EOLhyphen"/>cred Majeſty, <hi>viz.</hi> Mr. <hi>John Weemes,</hi> that learned Wri<g ref="char:EOLhyphen"/>ter in Morall Divinity, Mr. <hi>Anthony Maxton,</hi> both which were made <hi>Prebendaries</hi> of the Cathedrall Church of <hi>Dureſme,</hi> and Mr. <hi>Clappur<g ref="char:EOLhyphen"/>ton,</hi> being three <hi>Scotch men,</hi> and able Schollers.</p>
+            <p>For his Judgement of the due deſerts of Learn<g ref="char:EOLhyphen"/>ing, take one inſtance; when he was <hi>Deane</hi> of <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> and Mr. <hi>John Donne</hi> had caſt himſelfe into a Sea of miſery, by the marriage of the Daughter of Sir
+<pb n="98" facs="tcp:105045:57"/>
+               <hi>George Moore</hi> Knight, where<g ref="char:EOLhyphen"/>by he was exuted of his Secretaries place under the Lord Chancellor <hi>Egerton,</hi> and had ſpent moſt of his own means in the purſuit of his ſaid marriage, where<g ref="char:EOLhyphen"/>by he was brought to a low ebb and debility in his Eſtate; and knowing no wayes, or means whereby he could ſubſiſt, Children eſpecially encreaſing year<g ref="char:EOLhyphen"/>ly; then did <hi>Deane Morton</hi> earneſtly and ſeriouſly move him to take the holy Miniſtery on him, whereby the better to ſupport and
+<pb n="99" facs="tcp:105045:57"/>
+maintain that Charge; and for his better incourage<g ref="char:EOLhyphen"/>ment, he willingly and freely offered to reſigne unto him the <hi>Rectory of Long Marſton</hi> in <hi>York-ſhire,</hi> being of the yearly value <hi>(plus minus)</hi> of two hun<g ref="char:EOLhyphen"/>dred pounds <hi>per Annum;</hi> yet to this friendly motion he would not (then) give his aſſent, but put it by, in hope (as it ſhould ſeem) of ſome other preferment, for which he thought himſelfe more fit.</p>
+            <p>And long after, the ſaid Mr. <hi>Donne,</hi> having grapled
+<pb n="100" facs="tcp:105045:58"/>
+with many extremities at home, he paſſed over into <hi>France,</hi> where he gave him<g ref="char:EOLhyphen"/>ſelf to the Study of the Laws: And from <hi>Amiens,</hi> (as I remember) he writ a Letter to his alwayes true friend <hi>Deane Morton,</hi> where<g ref="char:EOLhyphen"/>in he requeſted his advice, Whether taking the De<g ref="char:EOLhyphen"/>gree of a <hi>Doctor</hi> in that Profeſſion of the Laws, it might not be conducible and advantagious unto him to Practice at home in the <hi>Arches London.</hi> Unto whom the <hi>Deane</hi> then returned him anſwer, That in his
+<pb n="101" facs="tcp:105045:58"/>
+Judgement, he thought the Miniſtry in the Church of God would be ſafer, and fitter for him: Whereupon he deſiſted from further proſecution of thoſe Stu<g ref="char:EOLhyphen"/>dies.</p>
+            <p>For doubtleſs the holy Spirit had the greateſt ſtroak and power to in<g ref="char:EOLhyphen"/>cline, and draw him to that ſacred Profeſſion: For my ſelfe have long ſince ſeen his Picture in a dear friends Chamber of his in <hi>Lincolnes Inne,</hi> all envelloped with a darkiſh ſhadow, his face &amp; feature hardly diſcernable,
+<pb n="102" facs="tcp:105045:59"/>
+with this ejaculation and wiſh written thereon; <hi>Do<g ref="char:EOLhyphen"/>mine illumina tenebras meas:</hi> which long after was really accompliſhed, when (by King <hi>James</hi> his weighty and powerfull perſwaſions) he took holy Orders at the hands of the right Reve<g ref="char:EOLhyphen"/>rend Father <hi>John</hi> Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London,</hi> and ſo be<g ref="char:EOLhyphen"/>came a learned and aſſidu<g ref="char:EOLhyphen"/>ous Preacher. Whereupon His gracious Majeſty King <hi>James</hi> beſtowed the <hi>Dean<g ref="char:EOLhyphen"/>ary</hi> of St. <hi>Pauls London</hi> up<g ref="char:EOLhyphen"/>on him: where what pro<g ref="char:EOLhyphen"/>fitable pains he took, and
+<pb n="103" facs="tcp:105045:59"/>
+els where, the large Book of his <hi>Sermons,</hi> and other Learned Labors, (which are Publiſhed, both before, and after he had been <hi>Dean</hi>) do moſt ſufficiently atteſt and demonſtrate.</p>
+            <p>For a Cloſe, concerning this Learned Gentleman, I will add one inſtance of his ripe and ſudden wit, For at one time when Biſhop <hi>Mor<g ref="char:EOLhyphen"/>ton</hi> gave him a good quan<g ref="char:EOLhyphen"/>tity of Gold (then a uſe<g ref="char:EOLhyphen"/>full token) ſaying, <hi>Here Mr.</hi> Donne, <hi>take this, Gold is reſtorative:</hi> He preſently anſwered, <hi>Sir, I doubt I ſhall
+<pb n="104" facs="tcp:105045:60"/>
+never reſtore it back again:</hi> and I am aſſured that he never did.</p>
+            <p>This Biſhop <hi>Morton</hi> was a great benefactor to Saint <hi>Johns College</hi> in <hi>Cambridge,</hi> (where ſometimes he had been Fellow) and beſtow<g ref="char:EOLhyphen"/>ed many hundreds of pounds in Books for the adorning and augmenting of that their faire <hi>Library,</hi> which Dr. <hi>Williams Biſhop</hi> of <hi>Lincolne,</hi> and <hi>Lord Keeper of the Great Seale of England,</hi> ſometimes Fellow there, had Founded. He built alſo out of an old decayed
+<pb n="105" facs="tcp:105045:60"/>
+Chappell at <hi>Biſhop Auck<g ref="char:EOLhyphen"/>land,</hi> a fair Grammar School, and endowed the Maſter thereof with 24. pounds <hi>per Annum</hi> for ever: Other things he purpoſed to have done, as the enlarging of the old <hi>Market Place;</hi> and the erecting a new <hi>Market Croſſe</hi> in the <hi>Pavement</hi> at <hi>York,</hi> (near to which he was born,) but was pre<g ref="char:EOLhyphen"/>vented by the late wofull and deſtructive times: but God would accept of his ſmal offerings, as he did the poor <hi>Widdows Mite.</hi>
+            </p>
+            <p>He converted ſundry
+<pb n="106" facs="tcp:105045:61"/>
+Perſons (in his time) from the <hi>Popiſh Religion,</hi> and by Gods grace, brought them to the true Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> amongſt which was the Lady <hi>Cholmeley,</hi> Wife to Sir <hi>Henry Cholmeley</hi> Knight<note n="ſ" place="margin">When he was <hi>Bi<g ref="char:EOLhyphen"/>ſhop of Cheſter,</hi> he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</note>: So Mr. <hi>Redmaine</hi> a Popiſh Prieſt, afterwards Viccar and Preacher at <hi>Con<g ref="char:EOLhyphen"/>gleton</hi> in <hi>Cheſhire:</hi> So Mr. <hi>Theophilus Higgons,</hi> who after was a learned Preach<g ref="char:EOLhyphen"/>er, and <hi>Rector</hi> of <hi>Hunton</hi> in <hi>Kent.</hi> Mr. <hi>Toby Swinburn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> then lately returned from the <hi>Engliſh College at Rome,</hi> afterwards created <hi>Doctor
+<pb n="107" facs="tcp:105045:61"/>
+of the Laws at Oxon,</hi> and in theſe late unhappy times, deprived of his life, whoſe death was chiefly effected by their cruell impriſon<g ref="char:EOLhyphen"/>ment of him, after that he had received many deep, and deſperate wounds in the battle at <hi>Newbery</hi> for the affection and loyalty which he did bear to His late Majeſty <hi>Charles</hi> I. Al<g ref="char:EOLhyphen"/>ſo a Reverend <hi>Biſhop</hi> now living, (but here ſhall be nameleſs:) Alſo Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Hulſe</hi> Gentleman: Mr. <hi>Mathew,</hi> and ſundry others.</p>
+            <p>
+               <pb n="108" facs="tcp:105045:62"/>He was alwayes very be<g ref="char:EOLhyphen"/>neficiall and bountifull to the poor, whereſoever he lived or came; ſo that as it pleaſed God to deveſt him of thoſe ample means, which ſometimes he had to diſpoſe of, and to doe good on all occaſions; ſo took he timely order (during al<g ref="char:EOLhyphen"/>moſt his whole life) to ero<g ref="char:EOLhyphen"/>gate and beſtow the mean<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God lent him, to the beſt ends, which was, for the maintenance of the poor of all ſorts, <hi>viz,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the place where he reſided, or by the way where <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="109" facs="tcp:105045:62"/>
+travelled, or poor Schol<g ref="char:EOLhyphen"/>lers in the Univerſity, to many of whom he gave yearly Stipends; poor ſtran<g ref="char:EOLhyphen"/>gers and Travellers, to whom his Purſe was always open. And in the <hi>Biſhop<g ref="char:EOLhyphen"/>prick</hi> of <hi>Dureſme,</hi> he gave, (beſides his dayly Almes to the poor at the Caſtle<g ref="char:EOLhyphen"/>gate) ſo many Gowns of blew Cloth to certain poor men, as he had been Biſhop of <hi>Durham,</hi> with their diet in the Hall foure dayes in the week.</p>
+            <p>For example of his libe<g ref="char:EOLhyphen"/>rall mind, and the con<g ref="char:EOLhyphen"/>tempt
+<pb n="110" facs="tcp:105045:63"/>
+of worldly wealth (beſides that ſingle in<g ref="char:EOLhyphen"/>ſtance above <hi>rehe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſed;</hi> when he was leaving the <hi>Deanary of Winton</hi>) he forgave unto one Mis. <hi>Place</hi> of <hi>Hurworth</hi> near the River of <hi>Teiſe</hi> (whoſe husband unhappily made a way himſelf (as they ſpake) his whole Eſtate (being forfeited to the <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> as <hi>Count Palatine</hi>) which was valued at 2000<hi rend="sup">li</hi>. and took onely of her for a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> acknowledgement of the right of the <hi>County Palatin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (that which he beſtowed among his domeſticall Ser<g ref="char:EOLhyphen"/>vants)
+<pb n="111" facs="tcp:105045:63"/>
+the ſumme of 50<hi rend="sup">li</hi>. Likewiſe in his firſt <hi>Viſita<g ref="char:EOLhyphen"/>tion</hi> of the Biſhoprick, be<g ref="char:EOLhyphen"/>ing at <hi>Barwick</hi> upon <hi>Tweede,</hi> he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orgave unto one Mr. <hi>Edward Moore</hi> of <hi>Tweedmouth</hi> near <hi>Barwick,</hi> 300<hi rend="sup">li</hi>. in which ſumme he was fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed (for a Ryott at the Aſſizes before, at <hi>Dur<g ref="char:EOLhyphen"/>ham</hi>) which the Biſhop was the rather moved to doe upon his humble ſupplica<g ref="char:EOLhyphen"/>tion then made. More ex<g ref="char:EOLhyphen"/>amples of his bounty and beneficencies might be produced, which I forbeare to recite, intending onely a briefe
+<pb n="112" facs="tcp:105045:64"/>
+recitall of ſome ſuch ſpeci<g ref="char:EOLhyphen"/>all things as fell under my knowledge and obſervati<g ref="char:EOLhyphen"/>on, whereof now an end.</p>
+            <p>But now ſhall begin a piece Limned by a curiou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pencil.</p>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca quae <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d rem pertine<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t memo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vi, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>li<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> f<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arrabit, fine <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were.
+<bibl>Ruffin. de St. Athanaſio.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="narrative">
+            <pb n="113" facs="tcp:105045:64"/>
+            <head>A further Narrative of ſuch things as befell the ſaid Biſhop before, and towards his Death, in theſe late wofull and Traiterous Combuſtions, in Church, and Common<g ref="char:EOLhyphen"/>weale.</head>
+            <p>IF for no other cauſe, or reaſon at all, yet that Poſterity may not altoge<g ref="char:EOLhyphen"/>ther
+<pb n="114" facs="tcp:105045:65"/>
+be ignorant what kind of <hi>Superintendents</hi> of cheife choice, and <hi>Coöpera<g ref="char:EOLhyphen"/>tors</hi> our Lord Jeſus had in his <hi>Engliſh Vineyard,</hi> even then, when His Divine Ma<g ref="char:EOLhyphen"/>jeſty was pleaſed (for the ſtupendious ingratitude of a non-proficient, and beſor<g ref="char:EOLhyphen"/>ted people) to permit the <hi>Wild bore out of the Forreſt to root it up,</hi> and the <hi>wilde beaſts of the field</hi> to de<g ref="char:EOLhyphen"/>ſolate, devoure, and lay it waſt; when the ſame God was pleaſed, in his juſt, though ſecret judge<g ref="char:EOLhyphen"/>ment,<note place="margin">Iſa. 34. 11.</note> 
+               <hi>To ſtretch out the line
+<pb n="115" facs="tcp:105045:65"/>
+of confuſion, and the ſtones of emptineſs,</hi> (as the holy Prophet phraſeth it) even for this very cauſe (if for no other) the life of this eminently gifted, this Or<g ref="char:EOLhyphen"/>thodox, learned, and exem<g ref="char:EOLhyphen"/>plary-lived and laborious Prelate Dr. <hi>Thomas Morton</hi> ſhall appear unto the world in this plain and naked <hi>Nar<g ref="char:EOLhyphen"/>rative</hi> following: Of the which I may plainly averr, what holy <hi>Nazianzen</hi> did in his Funerall Oration for his Siſter <hi>Gorgonia, viz.</hi> 
+               <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> &amp;c. Adeò nihil <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è ultrà veritst <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> tranſillam, ſed illud contrà <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è inf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>à veritatem ſubſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>am; ac <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roud à rei dignita<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e remotus laudatione <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eâ <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oriam ipſius diminuam.</note> 
+               <hi>I
+<pb n="116" facs="tcp:105045:66"/>
+am ſo far from fearing to hy<g ref="char:EOLunhyphen"/>perbolize, or tranſgreſs th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bounds of modesty,</hi> (the com<g ref="char:EOLhyphen"/>mon fault of Funerall Ora<g ref="char:EOLhyphen"/>tions) <hi>that I am ſure I <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fall much ſhort in many parti<g ref="char:EOLhyphen"/>culars of the line of verity<g ref="char:punc">▪</g>
+               </hi> For in drawing the Pictur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this moſt excellent Pre<g ref="char:EOLunhyphen"/>late, by ſo rude a Pencill, know and acknowledge that there will be indee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo much of the ſhadow, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will darken and obſcu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that native beauty and heavenly ornaments, which all they that knew him throughly and fully, can
+<pb n="117" facs="tcp:105045:66"/>
+not but atteſt was lodged his Perſon.</p>
+            <p>Here therefore ſhall be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n a more particular and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Narration of both <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Perſonall and Epiſco<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll qualities of this Reve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Prelate, (eſpecially of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> holy and heavenly de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtment in theſe wofull <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd deſtructive times.) And <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, in the Acquiſition of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preferments, his mode<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y was no whit leſs then <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is deſerts; from all tin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of prowling ambition, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>walking exactly in the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eps of that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Theo<g ref="char:EOLhyphen"/>log<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi>)
+<pb n="116" facs="tcp:105045:67"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="117" facs="tcp:105045:67"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="118" facs="tcp:105045:68"/>
+               <hi>Gregory Nazianzen<g ref="char:punc">▪</g>
+               </hi> whoſe record of himſelf, as to that particular, you may pleaſe to take in his own words, <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> &amp;c. Vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te quà<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è quam<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e juſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è in<g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mque <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imorem nego<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>um tran<g ref="char:EOLhyphen"/>ſigam, ut nec mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imè ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am praefectu<g ref="char:EOLhyphen"/>ram ap<g ref="char:EOLhyphen"/>petam, nec ob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pudiem: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c.</note> 
+               <hi>Conſider how rightly and evenly I carried my ſelf between thoſe two Rocks equally to be feared; neither ambitiouſly to progg and ſeek for Church Digni<g ref="char:EOLhyphen"/>ties, not free proferred; nor when freely proferred, ſud<g ref="char:EOLhyphen"/>dainly and Cynically to refuſe and contemne them.</hi> For as he further ſaith, <hi>Illud eſt homi<g ref="char:EOLhyphen"/>num temerariorum, hoc in obedientium, utrumque impe<g ref="char:EOLhyphen"/>ritorum.</hi> 1. <hi>The one argue<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="119" facs="tcp:105045:68"/>
+a bold Man: The other, a Diſobedient, both indiſcreet.</hi> And therefore betwixt theſe two extreams, did this holy Father Biſhop <hi>Morton</hi> walk according to the fore-named Patterne of <hi>Gregory Nazianzen,</hi> in a middle way betwixt the too bold, and too timo<g ref="char:EOLhyphen"/>rous. <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. His, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ad om<g ref="char:EOLhyphen"/>nes <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ae<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> pro<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp; iis <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us, qui omnes fugiunt<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uda<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r.</note> 
+               <hi>Neither</hi> (as he ſaith) <hi>ſo impotently ambitious, as to be in at all preferments; nor ſo weakly Cynicall as to decline thoſe which were fairely and freely conferred
+<pb n="120" facs="tcp:105045:69"/>
+on him,</hi> and wherein he conceived he might do God and his Church good ſervice: Which how our Biſhop hath performed, as (I hope) his works of <hi>Pie<g ref="char:EOLhyphen"/>ty, Charity,</hi> and <hi>Erudition,</hi> which he ſhall leave behind him, and take with him, (for <hi>the works of the righte<g ref="char:EOLhyphen"/>ous</hi>
+               <note place="margin">Apoe. 14. 13.</note> 
+               <hi>follow them</hi> into Hea<g ref="char:EOLhyphen"/>ven) will quit me of the labour of particular enu<g ref="char:EOLhyphen"/>meration, at leaſt for the preſent.</p>
+            <p>And as his <hi>Modeſty</hi> was ſingular, in not courting or reaching at thoſe prefer<g ref="char:EOLhyphen"/>ments
+<pb n="121" facs="tcp:105045:69"/>
+which Divine Pro<g ref="char:EOLhyphen"/>vidence caſt upon him; ſo was his <hi>Piety</hi> and <hi>Humility</hi> no leſs, in not onely not doting upon, but (indeed) ſcarcely owning of that outward ſplendor, and thoſe rich accoutrements, which were the <hi>Appendices</hi> of thoſe great Places: Not <hi>Antiſthenes,</hi> nor <hi>Crates,</hi> nor <hi>Diogenes</hi> himſelfe: nay, (what ſhould I ſay) nor their holy St. <hi>Francis,</hi> (as they depaint him) was a greater undervaluer, and contemner of the <hi>world,</hi> and <hi>worldly</hi> riches then was
+<pb n="122" facs="tcp:105045:70"/>
+this good Biſhop; yea, and without their vanity or oſtentation. Reſembling in that likewiſe (as in many other Epiſcopall qualities) the fore-named famous Bi<g ref="char:EOLhyphen"/>ſhop <hi>Nazianzen, who being advanced to a great and rich Biſhoprick</hi> (as that likewiſe of <hi>Durham</hi> hath been, and is accounted) <hi>he ſcarcely enriched himſelf with pence or pounds, when he might ea<g ref="char:EOLhyphen"/>ſily have hoarded up hun<g ref="char:EOLhyphen"/>dreds and thouſands, had he been ſo minded.</hi> Yea, and what I find further record<g ref="char:EOLhyphen"/>ed of that gracious Biſhop
+<pb n="123" facs="tcp:105045:70"/>
+               <hi>Nazianzen,</hi> I am ſure is moſt true in this heavenly Biſhop of <hi>Durham:</hi> 
+               <note n="d" place="margin">Qui am<g ref="char:EOLhyphen"/>pliſſimae Eccleſiae praeful inſtitu<g ref="char:EOLhyphen"/>tus, nè <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qui<g ref="char:EOLhyphen"/>dem drachm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> facultates ſuas aux<g ref="char:EOLhyphen"/>it, cùm tamen maxima<g ref="char:cmbAbbrStroke">̄</g> talento<g ref="char:EOLhyphen"/>rum co<g ref="char:EOLhyphen"/>piam, ſi ità vo<g ref="char:EOLhyphen"/>luntas e<g ref="char:EOLhyphen"/>jus <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uliſ<g ref="char:EOLhyphen"/>ſet, col<g ref="char:EOLhyphen"/>ligere po<g ref="char:EOLhyphen"/>tuiſſer.</note> 
+               <hi>He was ſo abſtracted from the world, and ſo wholly wedded to his book,</hi> LUt aegre red<g ref="char:EOLhyphen"/>dituum &amp; Adminiſtratio<g ref="char:EOLhyphen"/>nis rationem ab Oeconomis repetivit:] <hi>that he would ſcarcely allow himſelf ſo much time</hi> (from his affaires Ec<g ref="char:EOLhyphen"/>cleſiaſticall) <hi>as to take an account of his affaires Oecono<g ref="char:EOLhyphen"/>micall.</hi> How it fared with Biſhop <hi>Nazianzen,</hi> in that particular, I find it not re<g ref="char:EOLhyphen"/>corded; but this I know, Biſhop <hi>Morton's</hi> good hap
+<pb n="124" facs="tcp:105045:71"/>
+was to have an an able and faithfull Steward, for the managing and husbanding of his temporall Eſtate. And had this our egregi<g ref="char:EOLhyphen"/>ouſly (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Lord and Money - ſcorning Prelate been himſelf as ſparing a <hi>Promus,</hi> as his Steward was a carefull <hi>Condus,</hi> he might have reſerved a ſufficient portion, wherewith to have lived plentifully (yea even in theſe dog-dayes for Or<g ref="char:EOLhyphen"/>thodox <hi>Churchmen</hi>) though not in that bountifull and hoſpitable way, in which he formerly lived, (eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="125" facs="tcp:105045:71"/>
+when Biſhop of <hi>Dur<g ref="char:EOLhyphen"/>ham</hi>) yet in a more free and plentifull way, then that wherewithall (during the time of his ſequeſtra<g ref="char:EOLhyphen"/>tion) he was both cheer<g ref="char:EOLhyphen"/>fully and thankfully con<g ref="char:EOLhyphen"/>tented.</p>
+            <p>But our heavenly-mind<g ref="char:EOLhyphen"/>ed Prelate (whom I cannot remember without venera<g ref="char:EOLhyphen"/>tion) choſe rather to em<g ref="char:EOLhyphen"/>brace that bleſſed counſell of his great Lord and Ma<g ref="char:EOLhyphen"/>ſter <hi>Chriſt Jeſus,</hi> and ſtored up thoſe riches, which his Steward gathered for him, in ſuch treaſures, as he
+<pb n="126" facs="tcp:105045:72"/>
+knew full well would be above the reach of <hi>Plunde<g ref="char:EOLhyphen"/>rers,</hi> or <hi>Sequeſtrators, viz.</hi> the backs and bellies of the poor, thoſe heavenly repo<g ref="char:EOLhyphen"/>ſitories, where neither the <hi>ruſt</hi> of this <hi>Iron age</hi> could poſſibly corrupt them, nor the <hi>Moaths</hi> and <hi>Caterpillars</hi> of this peel'd Common<g ref="char:EOLhyphen"/>wealth, devour and deſtroy them.</p>
+            <p>Of which his bounty and liberallity, the Inhabitants of thoſe <hi>Biſhopricks</hi> where<g ref="char:EOLhyphen"/>in he lived, and eſpecially the poor, on whom he did fow thoſe ſeeds of eleemo<g ref="char:EOLhyphen"/>ſyneſs
+<pb n="127" facs="tcp:105045:72"/>
+(whereof he ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cape the happy harveſt) they may be the fitteſt and moſt proper Trumpeters. ſhall only add this <hi>Elogi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> (as to this point of his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommendations) which I and reported of that me<g ref="char:EOLhyphen"/>morable Biſhop of <hi>Orleans, Gabriel Albaſpineus,</hi> (and I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſure may be as truely <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erified of, and aſcribed to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his our Biſhop of <hi>Durham) That he onely Stewarded that great and rich Biſhoprick for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he good of others.</hi> For that which a <hi>Jeſuite</hi> ſometimes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid of the great <hi>Cardinall
+<pb n="128" facs="tcp:105045:73"/>
+Richelieu,</hi> (I am ſure adula<g ref="char:EOLhyphen"/>toriouſly, and I think alſo falſly, for he left his Ne<g ref="char:EOLhyphen"/>phew one of the greateſt <hi>Dukes</hi> and <hi>Peers of France) Quod in tantis fortunae copiis nihil duxit ſuum, niſi quod dederit;</hi> may, I am ſure, be applied without flattery or falſitie to this our good <hi>Bi<g ref="char:EOLhyphen"/>ſhop,</hi> who never eſteemed a<g ref="char:EOLhyphen"/>ny thing properly his own, but what he either gave in private to poor indigent perſons, or els in Publique to pious Uſes.</p>
+            <p>Such likewiſe was his <hi>Gandor</hi> and <hi>ingenuity,</hi> that
+<pb n="129" facs="tcp:105045:73"/>
+he never willingly injuried any man, but benefitted many undeſervedly; yea, ſome (I may ſay) almoſt againſt their wills; many (I may ſay) beſides their deſerts. For indeed, he was a man much what of that holy and heavenly temper, as was that <hi>quondam</hi> renow<g ref="char:EOLhyphen"/>ned <hi>Atlas</hi> of our <hi>Engliſh Church Arch Biſhop Whit<g ref="char:EOLhyphen"/>gift,</hi> (the want of whoſe prudence, patience, and moderation, theſe ruthfull times do too ſadly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>he) of whom it is writ by Sir <hi>George Paul</hi> (in his life)
+<pb n="130" facs="tcp:105045:74"/>
+that the way to obtaine from him ſome ſpeciall <hi>courteſie,</hi> was firſt to do him ſome ſpeciall <hi>injury</hi> 
+               <note n="e" place="margin">For, this <hi>Arch Bi<g ref="char:EOLhyphen"/>ſhops</hi> Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to was, <hi>Vincit qui pati<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e.</hi> H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who ſuffers, o<g ref="char:EOLhyphen"/>ver coms.</note>. And even ſo it was with this good Biſhop; it being the glory of theſe great Lights, theſe leading Saints, to take out the hardeſt Leſ<g ref="char:EOLhyphen"/>ſons of Chriſtianity, there<g ref="char:EOLhyphen"/>by to imitate their Lord and Maſter, <hi>Who ſendeth Raine, and makes his Sun to ſhine both upon the juſt and unjuſt.</hi>
+            </p>
+            <p>Once, I am well aſſured, the very contrary may be affirmed of this good Biſhop
+<pb n="131" facs="tcp:105045:74"/>
+what is ſaid by ſome (per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aps too Satyrically) of our Countrey-man <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> then Profeſſor at <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; Quod in tàm longa <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nec vera ſcribere, nec ben<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nec caſtè ſentire de aliis <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: That during his long <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, he neither learnt to write <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, or ſpeak honeſtly, or to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hink ſincerely of any others:</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaning (I ſuppoſe) of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roteſtants</hi> of our Religion. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut this pious and candid <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>relate (of whom we now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reak) was not a greater <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver and defender of the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith, then an hater of ſuch
+<pb n="132" facs="tcp:105045:75"/>
+as uſed to ſpeak, or think evill of any; yea, though their very enemies. Nei<g ref="char:EOLhyphen"/>ther did he want any of <hi>Cato's gravity,</hi> which yet he ſo tempered with <hi>Caeſars affability,</hi> as thereby he pre<g ref="char:EOLhyphen"/>ſerved both his Perſon and Place (as <hi>Nazianzen</hi> re<g ref="char:EOLhyphen"/>ports that glorious Martyr St. <hi>Cyprian</hi> to have done) free from <hi>two extreams, Pride and Contempt,</hi> ſo as neither was he envied by the <hi>Great</hi> ones, nor undervalued by the <hi>Vulgar.</hi>
+            </p>
+            <p>But amongſt all his Epiſ<g ref="char:EOLhyphen"/>copall qualities (of which
+<pb n="133" facs="tcp:105045:75"/>
+more hereafter) I for my own part admired none more then his admirable <hi>Conſtancy,</hi> his undiſtracted and undiſturbed ſpirit, even in theſe dayes of deſtructi<g ref="char:EOLhyphen"/>on and perturbation: He mourned, indeed, much both in private and pub<g ref="char:EOLhyphen"/>lique, for the hideous and high crying ſins of the Na<g ref="char:EOLhyphen"/>tion (not exempting him<g ref="char:EOLhyphen"/>ſelf, ſuch was his humility, no not from the number of the chiefeſt ſinners,) but he much, I ſay, bewailed the bold Crimſon ſins, which forced Gods pati<g ref="char:EOLhyphen"/>ence,
+<pb n="134" facs="tcp:105045:76"/>
+and hailed ſuch hea<g ref="char:EOLhyphen"/>vy and unheard of Judge<g ref="char:EOLhyphen"/>ments upon both Church and State. For as <hi>Eraſmus</hi> ſaid of <hi>Luther, Deus dedit poſtremae huic aetati, propter morborum magnitudinem, tàm acrent medicum:</hi> i. e. <hi>God gave ſuch a tart and ſmart Phyſitian, as was ſuitable to the many and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſperate diſea<g ref="char:EOLhyphen"/>ſes of that evill and last age.</hi> And as <hi>Charles</hi> the fifth, up<g ref="char:EOLhyphen"/>on the very ſame occaſion, uſed to ſay of the Monks and Frya<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: <hi>Si frugi fuiſ<g ref="char:EOLhyphen"/>ſent, prout decuit, Sacrificuli, nullo indig<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſent Luthero:</hi>
+               <pb n="135" facs="tcp:105045:76"/>
+i. e. <hi>If the Monks and Fryers had been ſuch as they ought to have been, they had needed no reforming</hi> Martin Luther. And ſo may we ſurely ſay, as this undejected (becauſe heaven-ſupported Prelate) alwayes ſaid, and thought; had the practice of thou<g ref="char:EOLhyphen"/>ſands and ten thouſands a<g ref="char:EOLhyphen"/>mong us, both Clergy and Laity, been in any meaſure anſwerable unto the pro<g ref="char:EOLhyphen"/>feſſions of the truely (ſo called) <hi>Proteſtant Religion;</hi> we had needed neither <hi>Presbyterian,</hi> nor <hi>Indepen<g ref="char:EOLhyphen"/>dent</hi> Reformation. But as
+<pb n="136" facs="tcp:105045:77"/>
+our (now) tranſcendently<note place="margin">C. R.</note> glorious King Divinely ob<g ref="char:EOLhyphen"/>ſerved, in that his <hi>Seraphi<g ref="char:EOLhyphen"/>call</hi> Piece (which is both the ſhame and glory of our Nation) <hi>Our ſins being ripe</hi> (<note n="f" place="margin">Magis ſiccae ad ignem, quàm albae ad meſſin.</note> nay rotten upon the ground) <hi>unto the Harveſt,</hi> there was no preventing of either the Fire or Sickle of Gods Juſtice, from reaping that glory in our Calami<g ref="char:EOLhyphen"/>ties, which we robbed him of in our proſperity.</p>
+            <p>Nevertheleſs, our holy Prelare, adoring and ap<g ref="char:EOLhyphen"/>proving the unſearchable wayes and judgements of
+<pb n="137" facs="tcp:105045:77"/>
+God, ſtood faſt and un<g ref="char:EOLhyphen"/>movable, when the foun<g ref="char:EOLhyphen"/>dations were moved, yea and removed, <hi>In pavidum ferière Ipſum ruinae.</hi> And for the better undergoing and over-paſſing of theſe many and great deſtructive alterations, which hapned in theſe times, he made that moſt excellent and in<g ref="char:EOLhyphen"/>comparable Biſhop Saint <hi>Auguſtine</hi> his patterne and exemplar, who in his book (that full Learned book) <hi>De Civitate Dei,</hi> thus writeth of himſelf; in the depopulation of the <hi>Affri<g ref="char:EOLhyphen"/>cane
+<pb n="138" facs="tcp:105045:78"/>
+Churches and Cities, by the Gothes and Vandels,</hi> he much more bewailed their <hi>Spirituall ſufferings,</hi> then their <hi>Temporall.</hi> Indeed, the razing of their <hi>Cities,</hi> the ruining of their <hi>Tem<g ref="char:EOLhyphen"/>ples,</hi> the raviſhing of their <hi>Wives,</hi> the defiling of their <hi>Virgins,</hi> the <hi>Plundering</hi> of their houſes of whatſoever was either for profit or pleaſure, Theſe he confeſ<g ref="char:EOLhyphen"/>ſed were <hi>great Temptations;</hi> neither did he know how to reſt his perplexed ſoule, but onely by admiring, adoring, and approving
+<pb n="139" facs="tcp:105045:78"/>
+Gods Righteous Judge<g ref="char:EOLhyphen"/>ments, condoling and con<g ref="char:EOLhyphen"/>demning their own wick<g ref="char:EOLhyphen"/>edneſs; <hi>Sed ſupra haec om<g ref="char:EOLhyphen"/>nia malè eum habuit, &amp;c. Above and beyond all theſe, was the ſad reflection and cutting conſideration, that after he had, by Forty years continuall Preaching and Writing, happily quaſhed and ſopited ſo many blaſphemous and damnable Hereſies, as had long infeſted and infected Gods Church: He feared a reſur<g ref="char:EOLhyphen"/>rection of them all again, and that a Sluce and inlett would be opened for their re-entry
+<pb n="140" facs="tcp:105045:79"/>
+and tolleration: In that re<g ref="char:EOLhyphen"/>gard, he deſired much rather to be diſſolved, then to live and to behold the extermina<g ref="char:EOLhyphen"/>tion of Gods true Religion, and the introduction of a great many falſe ones.</hi>
+            </p>
+            <p>And this (even this in theſe unhappy times) was the caſe and condition of this our learned, laborious, and Orthodox Prelate, who of all thoſe <hi>Iliads of evills,</hi> and mountains of miſeries, which have fallen upon theſe fate-blaſted and ſtar<g ref="char:EOLhyphen"/>ſtricken Kingdoms, eſteem<g ref="char:EOLhyphen"/>ed none equall, nor any
+<pb n="141" facs="tcp:105045:79"/>
+whit comparable to their ſpirituall infatuation, their being [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] ſtricken by God with a vertibility and <hi>vertigo</hi> in Religion, none of all Gods Judgements, not Sword, not Plague, not Famine, (no nor all put together) being of equall conſideration, with the ex<g ref="char:EOLhyphen"/>tirpation or ſuppreſſion of the true Religion, together with an indulgence and tolleration of falſe, where every man is left, (like another <hi>Micah</hi>) and may<note place="margin">Judge<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17. 5.</note> without impunity make unto himſelfe both <hi>Gods</hi>
+               <pb n="142" facs="tcp:105045:80"/>
+and <hi>Prieſts,</hi> nay Religions and Worſhips, as many, or as meane, or cheape as him<g ref="char:EOLhyphen"/>ſelf pleaſeth.</p>
+            <p>We know that an <hi>Eng<g ref="char:EOLhyphen"/>liſh-man,</hi> in former times, was wont to be drawn be<g ref="char:EOLhyphen"/>yond Seas (by way of a jeare) to ſhew his incon<g ref="char:EOLhyphen"/>ſtancy and ſickleneſs in his apparrell, with a bundle of Cloth upon the one Shoulder, and a payre of Taylors Sheares hanging on the other, to cut out a new faſhion for himſelfe every moneth, or week, as his fancy ſhould leade him,
+<pb n="143" facs="tcp:105045:80"/>
+for the clothing and ap<g ref="char:EOLhyphen"/>parrelling of his body. But now alas! he may be Pictu<g ref="char:EOLhyphen"/>red more ſcornfully, and yet (God knows) more properly and truely, in re<g ref="char:EOLhyphen"/>ſpect to his Religion, (which is, or ought to be, the apparell of the ſoule) with a ſheet of blanck Pa<g ref="char:EOLhyphen"/>per in the one hand, and a Pen full of Inke in the other, to Write every day what Religion he moſt fan<g ref="char:EOLhyphen"/>tieth, <hi>Papiſt</hi> or <hi>Proteſtant, Presbyterian</hi> or <hi>Independent, Quaker</hi> or <hi>Dipper, Arrian</hi> or <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>theiſt, Anabaptist</hi> or <hi>Ada<g ref="char:EOLhyphen"/>mite,</hi>
+               <pb n="144" facs="tcp:105045:81"/>
+or what is moſt in fa<g ref="char:EOLhyphen"/>ſhion, or ſway with the times. Theſe wretched times having dealt with that <hi>quondam</hi> darling of Heaven (the truely ſo cal<g ref="char:EOLhyphen"/>led <hi>Protestant Religion</hi>) as many hot-ſpuris and im<g ref="char:EOLhyphen"/>portunate Suitors dealt<note place="margin">Plutarch.</note> with a faire, but unfortu<g ref="char:EOLhyphen"/>nate Lady (becauſe ſhe was ſo faire;) for becauſe no one of them could engroſs or enjoy her wholly to himſelf, they moſt barba<g ref="char:EOLhyphen"/>rouſly reſolved to cut her in pieces, and to enjoy her peice meale, amongſt them.
+<pb n="145" facs="tcp:105045:81"/>
+And thus, even thus have the <hi>Schiſmaticks</hi> and <hi>Secta<g ref="char:EOLhyphen"/>ries</hi> of theſe broken times, handled the Orthodox <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion,</hi> and her chiefeſt nourcing Mother the Church of <hi>England</hi> (not long ſince, the glory, or en<g ref="char:EOLhyphen"/>vy, now the ſcorne of all her neighbour Siſters) they having ſliced and ſlit her into ſo many Sects, Here<g ref="char:EOLhyphen"/>ſies, and Schiſmes, as there are Points in the Compaſs, or Moons in the Year, that ſo they may have (as Saint <hi>Hilary</hi> ſaid the <hi>Arians</hi> had) their <hi>Menſtruam fidem,</hi> their
+<pb n="146" facs="tcp:105045:82"/>
+Monethly R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion; and (in concluſion) none at all. For, as among the Hea<g ref="char:EOLhyphen"/>thens, the plurality of Dei<g ref="char:EOLhyphen"/>ties, and making of many Gods did marr the true one; ſo among Chriſtians, the multiplication of many Religions will be found, in the end, the ready way to deſtroy all Religion; and e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e men are well aware, to huiſher in <hi>Atheiſme</hi> and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anation.</p>
+            <p>And this was indeed that great and cheife ſit<g ref="char:EOLhyphen"/>faſt that did peirce and perplex our Orthodox Pre<g ref="char:EOLhyphen"/>lates
+<pb n="147" facs="tcp:105045:82"/>
+righteous ſoule, to ſee the regularly (yea, and why not compleatly reformed) <hi>Engliſh Church,</hi> whoſe Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline he had vindicated and defend<g ref="char:EOLhyphen"/>ed, both by Preaching, Conference, and Writing, againſt the <hi>Papiſt</hi> and <hi>Pu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itan,</hi> and other <hi>Sectaries,</hi> by the ſpace of ſixty &amp; odd years together; to ſee her expire, and breath out her laſt, and that not without as much infamy and diſ<g ref="char:EOLhyphen"/>grace, as ſome of her un<g ref="char:EOLhyphen"/>naturall brats could poſſi<g ref="char:EOLhyphen"/>bly lay upon her: And for
+<pb n="148" facs="tcp:105045:83"/>
+a cloſe of all her miſeries, to behold her dead Corps <hi>tantum-non</hi> buried, as <hi>Je<g ref="char:EOLhyphen"/>hoakin</hi>'s was, with the <hi>buri<g ref="char:EOLhyphen"/>all of an Aſſe; Sepulturd in<g ref="char:EOLhyphen"/>ſepulta</hi> (as <hi>Tully</hi> termes it;) this, this was in truth the very <hi>Cordolium</hi> which did ſting him to the quick: For as the externall and adven<g ref="char:EOLhyphen"/>titious accruments where<g ref="char:EOLhyphen"/>with ſome former pious Princes have nobly and royally endowed and en<g ref="char:EOLhyphen"/>riched the Church; others leſs pious, or rather impi<g ref="char:EOLhyphen"/>ous, had ignobly diſpoiled her of their Predeceſſors
+<pb n="149" facs="tcp:105045:83"/>
+bounty: And others again moſt pious and provident, endeavoured the ſecuring of what was left, with the hazard of no leſs then their own ruine: (All which are demonſtrations, that the Churches Temporalties are no leſs then <hi>Anathema</hi>'s, things highly prized with all good men) yet, theſe compared with her <hi>Spiritu<g ref="char:EOLhyphen"/>alties,</hi> that is, the purity of <hi>Religion</hi> and Orthodox wor<g ref="char:EOLhyphen"/>ſhip, (for the loſs of the one is in no wiſe comparable to the loſs of the other) the dilacerations and diſtracti<g ref="char:EOLhyphen"/>ons
+<pb n="150" facs="tcp:105045:84"/>
+of the Church by He<g ref="char:EOLhyphen"/>reſies and Schiſmes in her Spiritualls; much more diſ<g ref="char:EOLhyphen"/>compoſed and divided the meek ſpirit of this holy man, then did the devaſta<g ref="char:EOLhyphen"/>tion of all his own Tem<g ref="char:EOLhyphen"/>poralls (though they not mean ones) by Plunder and Sequeſtration. And of the truth of this, I can give a ſignall teſtification upon my own knowledge.</p>
+            <p>For when he was adver<g ref="char:EOLhyphen"/>tized (at <hi>Durham</hi> houſe in the <hi>Strand, London</hi>) by a Member of Parliament, old Sir H. V. that the ſaile of
+<pb n="151" facs="tcp:105045:84"/>
+               <hi>Biſhops Lands,</hi> as well as <hi>Deans</hi> and <hi>Chapters,</hi> was that day reſolved and con<g ref="char:EOLhyphen"/>cluded by both <hi>Houſes;</hi> and was therefore adviſed by that Gent'. to Petition in due time for his livelihood to be granted unto him ſome other way then by that 800. <hi>per Annum</hi> for<g ref="char:EOLhyphen"/>merly Voted unto him, (which yet all he never en<g ref="char:EOLhyphen"/>joyed) how did he behave himſelfe upon this no wel<g ref="char:EOLhyphen"/>come information? did he be wray any diſcompoſure, or paſſionate perturbation? did he, like good old <hi>Eli,</hi>
+               <pb n="152" facs="tcp:105045:85"/>
+upon the ſudden news of the <hi>Arks Captivity,</hi> and the ſudden departure of the <hi>Glory from Iſrael?</hi> did he ſink or fall down, and ſuffer a totall deliquium of Spi<g ref="char:EOLhyphen"/>rit? No, I my ſelf can wit<g ref="char:EOLhyphen"/>neſs, he did not; but like that invincible man of <hi>
+                  <g ref="char:V">Ʋ</g>z,</hi> (who had not his paralell on the face of the earth) like that hëroick and hea<g ref="char:EOLhyphen"/>venly Soule, he gathered up his ſpirit (in diſpite of that cutting and affl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctive meſſage) and with heart, and hand, and eyes lift up to Heaven, he three times
+<pb n="153" facs="tcp:105045:85"/>
+repeated that <hi>Seraphicall</hi> ejaculation of holy <hi>Job; The Lord hath given, and the hath taken away; The Lord hath given, and the Lord hath taken away, The Lord hath given, and the Lord hath taken away: Bleſſed, Bleſſed, Bleſſed, be the Name of the Lord;</hi> and ſo returned a<g ref="char:EOLhyphen"/>gain in quiet (from whence he came) to his Study and Devotions. This was then obſerved, and can be wit<g ref="char:EOLhyphen"/>neſſed by a Perſon of credit<note place="margin">
+                  <hi>Dr.</hi> J. N.</note> late living, who did at that preſent providentially at<g ref="char:EOLhyphen"/>tend on him.</p>
+            <p>
+               <pb n="154" facs="tcp:105045:86"/>He lived a chaſte and unblemiſhed life, in a Caeli<g ref="char:EOLhyphen"/>bate and ſingle condition; and albeit that <hi>Coelibatus</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſimply conſide<g ref="char:EOLhyphen"/>red) is onely to be recko<g ref="char:EOLhyphen"/>ned <hi>inter</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or things <hi>indifferent;</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>the gift of Continence,</hi> is to be eſteemed as a ſpeciall Pri<g ref="char:EOLhyphen"/>vilige, and favour extraor<g ref="char:EOLhyphen"/>dinary, indulged by God to ſome choice and eſpeci<g ref="char:EOLhyphen"/>all favorites, eſpecially where it is improved (as it was in this Prelate) to the higheſt pitch of elevation; for he was not onely free
+<pb n="155" facs="tcp:105045:86"/>
+(all his life long, and long life) from any open crime, but even from the leaſt ſe<g ref="char:EOLhyphen"/>cret malitious ſuſpition<g ref="char:punc">▪</g> And indeed (excepting onely thoſe <hi>Primi motus,</hi> as I think the Schoole calls them) from the which no fleſh living, or that ever did live (ſave that onely <hi>ONE</hi>) was totally exempted (and therefore onely <hi>HE</hi>) but for any carnall knowledge of that Female Sex, or act of uncleaneſs with any wo<g ref="char:EOLhyphen"/>man living, or dead, I dare and muſt be, thus far his Compurgator, that he went
+<pb n="156" facs="tcp:105045:87"/>
+as pure a Virgin to the wombe of the Earth, as erſt he came from the wombe of his Mother. I could wiſh that all the vo<g ref="char:EOLhyphen"/>taries of the <hi>Romiſh Church,</hi> or at leaſt ſome of them, who doe ſo proudly and preſumptuouſly (to ſay no worſe) condemne and de<g ref="char:EOLhyphen"/>cry that ſtate in Clergy<g ref="char:EOLhyphen"/>men, which yet the great Apoſtle judged <hi>Honourable</hi>
+               <note place="margin">He<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>amongſt all men;</hi> I wiſh, I ſay, a many of them would ſay as much, and withall as truely for the honour of their Church
+<pb n="157" facs="tcp:105045:87"/>
+before men, and for their own juſtification.</p>
+            <p>This <hi>Biſhop</hi> was, for his own perſon, in many parti<g ref="char:EOLhyphen"/>culars, very much reſem<g ref="char:EOLhyphen"/>bling that ſecond honour of <hi>Genevah</hi> Monſieur <hi>Theo<g ref="char:EOLhyphen"/>dore Beza,</hi> whom I have read thus Characterized and Deſcribed; <hi>Statur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corporis quadratâ, vultu de<g ref="char:EOLhyphen"/>coro, valetudine firmâ (adeǒ ut quid eſſet capite dolere, ſe propemodum neſcire ſaepe dixit) vivido ingento, judi<g ref="char:EOLhyphen"/>cio acuto, memorià felici, ſtu<g ref="char:EOLhyphen"/>dio indefeſſo, comitate &amp; affa<g ref="char:EOLhyphen"/>bilitate nemini ſecundus.</hi> And
+<pb n="158" facs="tcp:105045:88"/>
+ſuch was this Preiate, (whom we are now de<g ref="char:EOLhyphen"/>ciphering) of Stature lit<g ref="char:EOLhyphen"/>tle and cleane, and ſtrong body, an exquiſite conſti<g ref="char:EOLhyphen"/>tution, comely counte<g ref="char:EOLhyphen"/>nance, conſtant and ſel<g ref="char:EOLhyphen"/>dome interrupted health, quick wit, and ſolid Judge<g ref="char:EOLhyphen"/>ment, happy memory and indefatigably ſtudious, and in courteſie and condiſcen<g ref="char:EOLhyphen"/>tion ſecond unto none. <hi>Adeò ut</hi> (as was further ſaid of <hi>Beza) propter has ſuas utriuſque varias dotes, ad<g ref="char:EOLhyphen"/>junct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> utique tant<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> longevi<g ref="char:EOLhyphen"/>tate, &amp;c.</hi> So as for their
+<pb n="159" facs="tcp:105045:88"/>
+both various and great en<g ref="char:EOLhyphen"/>dowments, accompanied with ſuch health and length of dayes (for Mr. <hi>Beza,</hi> as I Reade, lived eighty ſix years, and <note n="g" place="margin">Then living when t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was wr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Bi<g ref="char:EOLhyphen"/>ſhop <hi>Morton,</hi> yet living, hath already attained to ſuch a vaſt extenſion of dayes) as (if I be not miſtaken) not any of the Ancient <hi>Greek</hi> or <hi>Latine Fathers,</hi> nor Controverſall Moderne Writers, either <hi>Proteſtant</hi> or <hi>Papist,</hi> no nor any of the bleſſed <hi>Apoſtles</hi> themſelves (St. <hi>John</hi> onely excepted, and of his Age
+<pb n="160" facs="tcp:105045:89"/>
+Hiſtorians much differ) not any one of theſe did attain unto in their Generations: and conſidering all this longevity and furlongs of time laboriouſly layd out for the glory of God, and good of his Church (I hope) that I may ſtile him, in this conſideration (without injury or offence of any perſon living or dead) as I finde <hi>Beza</hi> ſtiled upon the ſelte ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me ſcore, <hi>Aetatis ſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oenix: <hi>The</hi> Phoenix <hi>of the Age in which be lived.</hi>
+            </p>
+            <p>
+               <pb n="161" facs="tcp:105045:89"/>And here I ſhall begg leave, by way of <hi>Parenthe<g ref="char:EOLhyphen"/>ſis,</hi> not a little to wonder, how thoſe <hi>Romiſh raylers,</hi> and <hi>Remiſh Balatrones</hi> can expedite themſelves (I meane) by objecting a<g ref="char:EOLhyphen"/>gainſt <note n="h" place="margin">
+                  <hi>Calvin</hi> died in the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. yea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of his <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Whi<g ref="char:EOLhyphen"/>takers</hi> in the 47. Mr. <hi>Per<g ref="char:EOLhyphen"/>kins 44.</hi>
+               </note> 
+               <hi>Calvin, Whittaker, Perkins,</hi> and ſome other Proteſtant Writers, their contracted Lives, and im<g ref="char:EOLhyphen"/>mature Deaths, as tokens of Gods anger and diſ<g ref="char:EOLhyphen"/>pleaſure againſt the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion;</hi> notwith<g ref="char:EOLhyphen"/>ſtanding (if need were) we are able to produce many other Proteſtant
+<pb n="162" facs="tcp:105045:90"/>
+Writers, of this very laſt Age, and all <hi>Engliſh-men,</hi> who have equalled, or out<g ref="char:EOLhyphen"/>ſtripped, both for quanti<g ref="char:EOLhyphen"/>ty of dayes, and qualities of Learning, the moſt (if not all) their coëtaneous Pontificians. In ſuch a Ca<g ref="char:EOLhyphen"/>talogue, I muſt begin with that great and quick Wit, the laſt Arch-Biſhop of <hi>Canterbury,</hi> and the late famous Biſhop of <hi>Winche<g ref="char:EOLhyphen"/>ſter</hi> Doctor <hi>Andrews,</hi> con<g ref="char:EOLhyphen"/>tinue it with the mention of rhat incomparable ſe<g ref="char:EOLhyphen"/>cond <hi>Juell,</hi> and Dr. <hi>Dave<g ref="char:EOLhyphen"/>nant</hi> Biſhops of <hi>Sarum,</hi> the
+<pb n="163" facs="tcp:105045:90"/>
+great Learned Dr. <hi>White,</hi> Biſhop of <hi>Elie,</hi> Dr. <hi>Moun<g ref="char:EOLhyphen"/>tague</hi> Biſhop of <hi>Norwich;</hi> Dr. <hi>Prideaux</hi> the Learned Biſhop of <hi>Wigorn;</hi> and to theſe, add the two famous Profeſſors of the Univer<g ref="char:EOLhyphen"/>ſity of <hi>Cambridge,</hi> Doctor <hi>Ward,</hi> and Doctor <hi>Collins,</hi> (and many more, which for brevities ſake I for<g ref="char:EOLhyphen"/>beare to Name) none of all which, but attained at leaſt their Climactericall, and ſome of them ex<g ref="char:EOLhyphen"/>ceeded (their ſeventy) the date of mans Life allot<g ref="char:EOLhyphen"/>ted by the Pſalmiſt King
+<pb n="164" facs="tcp:105045:91"/>
+               <hi>David,</hi> Pſal. 90. 10.</p>
+            <p>And for the cloſe of this Catalogue, I may fairely add the two great lights, lately tranſlated from their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading and ex<g ref="char:EOLhyphen"/>tinguiſhed Miters here on Earth, unto their abiding and ever flouriſhing Crowns in Heaven, the famous Pri<g ref="char:EOLhyphen"/>mate of <hi>Ireland</hi> Dr <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> late Arch Biſhop of <hi>Armah,</hi> Aged ſeventy and ſix; and that pious and fluent Eng<g ref="char:EOLhyphen"/>liſh <hi>Bernard</hi> Doctor <hi>Hall</hi> Biſhop of <hi>Norwich,</hi> Aged eighty two: And for a <hi>Coronis</hi> unto them all (in
+<pb n="165" facs="tcp:105045:91"/>
+this faire Catalogue of <hi>Engliſh</hi> Writers) I muſt not ſure forget him, whom I have in preſent taske, the eldeſt, and firſt begotten Brother of them all, the moſt Learned and Religi<g ref="char:EOLhyphen"/>ous Doctor <hi>Morton</hi> Biſhop of <hi>Durham,</hi> ſtill ſojourning and ſweating in the <hi>Church Militant,</hi> drawing to his ninety fourth year at the Writing hereof.</p>
+            <p>Therefore how the fore<g ref="char:EOLhyphen"/>named Objectors of the <hi>Romiſh Church</hi> can expedite themſelves from this vain expoſtulation of ſome emi<g ref="char:EOLhyphen"/>nent
+<pb n="166" facs="tcp:105045:92"/>
+               <hi>Proteſtant Writers [not dimidiating their lives</hi>] I, for my part, cannot ima<g ref="char:EOLhyphen"/>gine, unleſs they will doe (as their manner is) to play faſt and looſe for their own advantage, and make the ſelfe ſame thing a marke of Gods love and favour, in one caſe; and in another, a ſyptome of his anger and indignation; whereas wiſe men know, that the favour and diſ<g ref="char:EOLhyphen"/>favour of Almighty God, is not to be meaſured by any externalls whatſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>
+               <pb n="167" facs="tcp:105045:92"/>Now as (never too of<g ref="char:EOLhyphen"/>ten quoted) <hi>Gregory Nazi<g ref="char:EOLhyphen"/>anzen</hi> ſaith, in his Oration of that renowned <hi>Athana<g ref="char:EOLhyphen"/>ſius,</hi> the invincible Arch-Biſhop of <hi>Alexandria;</hi> ſo may I, and muſt I ſay, of this worthy Prelate (never enough admired and reve<g ref="char:EOLhyphen"/>renced of me) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c) <hi>Quid vo<g ref="char:EOLhyphen"/>bis praeſcribere attinet, quem</hi> Paulus <hi>antè veteres depinxit, partim cum Pontificem il um mox depraedicat, qui coelos penetravit (huc enim uſque progredi non dubitabit ora<g ref="char:EOLhyphen"/>tio, cum Scriptura eos, qui</hi>
+               <note place="margin">Heb. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="168" facs="tcp:105045:93"/>
+               <hi>ſecundum Chriſtum pro Chri<g ref="char:EOLhyphen"/>ſto agnoſeat) partim cum</hi> Timotheo <hi>leges imponit,</hi> 1 Tim. 3. 12. 13. <hi>eum, qui Eccleſiae futurus eſt Antiſtes, ſermone fingens at que infor<g ref="char:EOLhyphen"/>mans, &amp;c. Why ſhould I either trouble you, or my ſelf, to ſuper-rogate unto you the dilineation or deſcription of a man, whom Saint</hi> Paul <hi>hath before-hand ſo compleatly de<g ref="char:EOLhyphen"/>ciphered, partly in the per<g ref="char:EOLhyphen"/>ſon of that great High Prieſt, who is entred into the high<g ref="char:EOLhyphen"/>eſt of Heavens,</hi> Heb. 4. (<hi>for thus the Scriptures will war<g ref="char:EOLhyphen"/>rant my preſumption,</hi> ſaith
+<pb n="169" facs="tcp:105045:93"/>
+the holy Father) <hi>to intitle them to Chriſt, who lived and dyed unto Christ: And part<g ref="char:EOLhyphen"/>ly in his firſt Epistle unto</hi> Timothy Chap. 3. <hi>where he doth moſt exactly and com<g ref="char:EOLhyphen"/>pleatly deſcribe and Characte<g ref="char:EOLhyphen"/>rize a</hi> Biſhop, <hi>or man of God, with all his properties and qualifications.</hi>
+            </p>
+            <p>And now, if we ſhall compare theſe Epiſcopall Characters, ſet down by the Apoſtles, with our pre<g ref="char:EOLhyphen"/>ſent inſtance, I trow we ſhall find little variation, or none at all; but in each particular ſuch a plenary
+<pb n="170" facs="tcp:105045:94"/>
+correſpondence and conſpi<g ref="char:EOLhyphen"/>ration; A <hi>Biſhop</hi> (ſaith that bleſſed Apoſtle) who ſurely knew perfectly what belonged to a Biſhop, if ever any; and had him<g ref="char:EOLhyphen"/>ſelfe the moſt right to that proud uſurped Title, of <hi>Oecumenicall Biſhop,</hi> for he <hi>had dayly care of all the Churches,</hi> 2 Cor. 11. 8. <hi>A</hi> Biſhop (ſaith he) <hi>muſt be blameleſs, the Husband of one Wife,</hi> (if any at all) <hi>vigi<g ref="char:EOLhyphen"/>lant, ſober, of good behavi<g ref="char:EOLhyphen"/>our, given to hoſpitality, apt to teach. Not given to Wine, no ſtriker, not given to fil<g ref="char:EOLhyphen"/>thy
+<pb n="171" facs="tcp:105045:94"/>
+lucre, but patient, not a brawler, not covetous. One that ruleth his own houſe well, having Children</hi> (that is, if he have any, other<g ref="char:EOLhyphen"/>wiſe his ſervants) <hi>in ſubje<g ref="char:EOLhyphen"/>ction with gravity. Not a novice, leaſt being lifted up by pride, he fall into the condemnation of the Devill. Moreover, he muſt have a good report of them that are without,</hi> 1 Tim. 3. 2, 3, 4, 5, &amp;c.</p>
+            <p>Lo! here the <hi>Effiges</hi> or <hi>Picture</hi> of a Biſhop, drawn by an <hi>Apelles</hi> that could not erre: And lo! here a
+<pb n="172" facs="tcp:105045:95"/>
+Tranſcript, or Copy of that Picture in the Perſon of this Prelate, ſo lively reſembling and repreſent<g ref="char:EOLhyphen"/>ing the Originall, that I dare boldly challenge the moſt envenomed and foule<g ref="char:EOLhyphen"/>mouthed Adverſary that ever Writ againſt him, (even <hi>Parſons</hi> himſelfe, were he now <hi>in vivis)</hi> to inſtance in all the afore<g ref="char:EOLhyphen"/>named Epiſcopall qualifi<g ref="char:EOLhyphen"/>cations, poſitive or priva<g ref="char:EOLhyphen"/>tive, wherein this Reve<g ref="char:EOLhyphen"/>rend Prelate Biſhop <hi>Morton</hi> (humane frailties except<g ref="char:EOLhyphen"/>ed) was juſtly culpable or
+<pb n="173" facs="tcp:105045:95"/>
+defective, ſo laudably and approvedly did he <hi>run his race;</hi> ſo happily and ſo bleſ<g ref="char:EOLhyphen"/>ſedly <hi>finiſh his courſe, [Et in vilde multa nec minùs bonâ ſenectute curſum con<g ref="char:EOLhyphen"/>ſummans,</hi>] Cloſing his Pil<g ref="char:EOLhyphen"/>grimage in a very great, and no leſs good old age: like another <hi>Iſaac, He gave up the Ghoſt being old and full of dayes, and was gathe<g ref="char:EOLhyphen"/>red to his Fathers,</hi> Gen. 35. 29. That is, (as <hi>Nazianzen</hi> ſaith of <hi>Athanaſins) Patri<g ref="char:EOLhyphen"/>archis, Prophetis, Apostolis, Martyribus, &amp; Confeſſoribus feliciter adjungitur, qui pro
+<pb n="174" facs="tcp:105045:96"/>
+veritate tàm patiendo, quàm faciendo fortitèr dimicavit:</hi> That is, <hi>He is aſſociated and inrolled with thoſe glorious Saints the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets, Apostles, Martyrs, Confeſſors, &amp;c who have done and ſuffered ſo much for Gods truth. [Quin porrò An<g ref="char:EOLhyphen"/>gelorum conſortio fruitur in Coelis, quorum vitam diù vixt in terris;</hi>] as <hi>Baronius</hi> his expreſſion is of Saint <hi>Am<g ref="char:EOLhyphen"/>broſe;</hi> yea, and moreover, <hi>He enjoyes the bleſſed ſociety of the Angels in Heaven, whoſe imitator and compani<g ref="char:EOLhyphen"/>on be was whiles he lived
+<pb n="175" facs="tcp:105045:96"/>
+on Earth,</hi> having onely changed (by this his tran<g ref="char:EOLhyphen"/>ſlation, for <hi>Death</hi> I will not call it) <hi>his place, not his</hi>
+               <note place="margin">
+                  <hi>Dr. Prii<g ref="char:EOLhyphen"/>deaux</hi> late <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> of <hi>Wigor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+               </note> 
+               <hi>company,</hi> (as a late Divine of this Kingdome is re<g ref="char:EOLhyphen"/>corded to have ſaid upon his death bed,) <hi>Et ut ſe<g ref="char:EOLhyphen"/>mel dicam, beatus quod ſcri<g ref="char:EOLhyphen"/>pſerit legenda, &amp; ſcribenda ſecerit; leatior quod ad ve<g ref="char:EOLhyphen"/>ram pietatem, &amp; regnum caelorum multos erudierit; beatiſſimus quod in Domino mortuns à laboribus requi<g ref="char:EOLhyphen"/>eſcit, &amp; aeter<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ùm cum Chri<g ref="char:EOLhyphen"/>ſto &amp; gloriosè vivit. Happy in Writing things worthy to
+<pb n="176" facs="tcp:105045:97"/>
+be Read, and likewiſe acting things worthy to be Writ<g ref="char:EOLhyphen"/>ten; happier in Teaching and Instructing many, both by Books and Sermons in the right way to Heaven; and moſt happy in Living and Dying in the Lord, and now reſting from his Labours, and enjoying the Lord Jeſus in everlasting glory.</hi>
+            </p>
+            <p>What Monument his Friends will be able to erect to his Memory, I cannot ſay; but for his own Coffers, I feare they are too much a Kin unto
+<pb n="177" facs="tcp:105045:97"/>
+Arch - Biſhop <hi>Warham</hi>'s, wherein was found onely twenty Marks, when he lay upon his death bed, (as <note n="k" place="margin">Eraſ. praef. an<g ref="char:EOLhyphen"/>te opera Hierom.</note> 
+               <hi>Eraſmus</hi> witneſſeth) which yet the good old man piouſly ſaid, <hi>Was</hi> (ſa<g ref="char:EOLhyphen"/>tis viatici) <hi>enough to bring him to his journies end;</hi> and for more he took not late care: with which profeſſi<g ref="char:EOLhyphen"/>on, this our Religious Pre<g ref="char:EOLhyphen"/>late may bid his friends and the world Adien; for he dyed much what as poor as Saint <hi>Auguſtine,</hi> who (as <hi>Poſſidius</hi> report<g ref="char:EOLhyphen"/>eth) left onely his Library,
+<pb n="178" facs="tcp:105045:98"/>
+and divers imperfect Co<g ref="char:EOLhyphen"/>pies of his intended works, which his death prevented the Publiſhing of. And for his <hi>Chaplaines</hi> and <hi>Allies,</hi> which were neither few, nor meanly provided; yet all of them lying under the ſame burthen of the <hi>Times</hi> which preſſed their Lord &amp; Maſter, (not one of them al proving a <hi>Vertumnus,</hi> or <hi>E<g ref="char:EOLhyphen"/>cebolian time-ſerver)</hi> it may well be feared, they will be as unable as himſelf to perpetuate his memory by any earthly Monument, as he hath done to that Mir<g ref="char:EOLhyphen"/>ror
+<pb n="179" facs="tcp:105045:98"/>
+of Learning <note n="l" place="margin">In <hi>Weſt<g ref="char:EOLhyphen"/>minſter Abbey</hi> Church.</note> Mr. <hi>Iſa<g ref="char:EOLhyphen"/>ac Caſaubon;</hi> but however it leſs matters for thoſe earthly Circumſtantialls, becauſe I well know they were much both <hi>Praeter</hi> and <hi>Infrà, beſides</hi> and <hi>below</hi> his heavenly ſpeculations. And withall conſidering that what <hi>Gregory Nyſſene</hi> reports of his Siſter <hi>Macrina,</hi> may be truely affirmed of this pi<g ref="char:EOLhyphen"/>ous Prelate, <hi>viz. Purè &amp; integrè vivendo paravit ſibi Monumentum quod &amp; vitans ipſius decoraret &amp; ſepultu<g ref="char:EOLhyphen"/>ram</hi> 
+               <note n="m" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>. i. e. <hi>That by a pure
+<pb n="180" facs="tcp:105045:99"/>
+and holy life ſhe had prepa<g ref="char:EOLhyphen"/>red for her ſelfe a laſting Ornament, and a living Mo<g ref="char:EOLhyphen"/>nument after Death.</hi> And that is a good Name <note n="n" place="margin">For Bp. <hi>Morton</hi> his Ditto alwayes was. <hi>Mors vitam au<g ref="char:EOLhyphen"/>fert &amp; affert.</hi>
+               </note>, which is a better preſerva<g ref="char:EOLhyphen"/>tive of the juſt mans me<g ref="char:EOLhyphen"/>mory, then all the <hi>Pyrami<g ref="char:EOLhyphen"/>des</hi> and <hi>Polinctures</hi> of <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> or the ſtatelieſt <hi>Mau<g ref="char:EOLhyphen"/>ſoleums</hi> of <hi>Aſia.</hi> So as none of his Friends, or neereſt Alliances ſhall need to be<g ref="char:EOLhyphen"/>waile the want of Chil<g ref="char:EOLhyphen"/>dren, or his not-ſuperviving in his not-ſuperviving in his Poſterity: For to any ſuch Objection, he may juſtly reply, as did that
+<pb n="181" facs="tcp:105045:99"/>
+               <hi>Thebane Hercules Epaminon<g ref="char:EOLhyphen"/>das,</hi> (to ſome that lament<g ref="char:EOLhyphen"/>ed his Orbity) he told them, <hi>That he had left two Daughters, His Victories at</hi> Leuctra, <hi>and</hi> Mantinaea, <hi>which ſhould eternize his Name to all Poſterity.</hi> So much more am I aſſured this our <hi>Chriſtian Hercules,</hi> may ſay, <hi>That he hath left twelve Daughters,</hi> (yea, more then twelve Daugh<g ref="char:EOLhyphen"/>ters the Laborious Iſſues of his Braine, which will continue his Name and Memory, till they and the world take end together.</p>
+            <p>
+               <pb n="182" facs="tcp:105045:100"/>And now to draw to an end of this unpoliſhed Peice, which in that re<g ref="char:EOLhyphen"/>gard may ſeem to ſome too tedious and prolix: perhaps to others too ſhort and ſcant, (as I confeſs it is, for ſuch an excellent Subject,) howſoever I ſhall cloze it, as that afore men<g ref="char:EOLhyphen"/>tioned <hi>Gregory Nazianzon</hi> doth his <hi>Anniverſary Ora<g ref="char:EOLhyphen"/>tion</hi> for that famous <hi>Arch-Biſhop</hi> and <hi>Martyr</hi> St. <hi>Cy<g ref="char:EOLhyphen"/>prian; Haec ſunt quae dicenda habuimus, at que haud ſcio an plura dicere neceſſe, neque enim ſi Orationem in longum
+<pb n="183" facs="tcp:105045:100"/>
+produxerimus, quicquam ta<g ref="char:EOLhyphen"/>men afferre queamus, quod il<g ref="char:EOLhyphen"/>lius virtutibus &amp; exiſtima<g ref="char:EOLhyphen"/>tioni, quam de eo unuſquiſ<g ref="char:EOLhyphen"/>que concepit, ulla ex parte reſpondeat. This is part of that I had to ſay, neither doe I know whether it will be needfull or expedient to ſay more, for though I ſhould extend</hi> (this Tractate) <hi>to the utmoſt,</hi> (and weary per<g ref="char:EOLhyphen"/>haps both the Reader and my Selfe) <hi>yet ſhould I not be able to produce any thing anſwerable to the worth of this Prelate, and of thoſe many excellent merits which
+<pb n="184" facs="tcp:105045:101"/>
+all good men knew, and wil<g ref="char:EOLhyphen"/>lingly acknowledge</hi> (to end as I began) <hi>were lodged in his Perſon.</hi>
+            </p>
+            <p>If I ſhall live to heare of his tranſmigration from this life to a better, (which indeed I am loath to ſtile a <hi>Death,</hi> becauſe I know, whenſoever that day and houre ſhall come) he may comfortably ſay unto his Friends, as <hi>Miconius</hi> writ to <hi>Luther, Decumbere ſe quidem; ſed vitaliter, non laetaliter aegrotare: That ſick he was indeed; but it was
+<pb n="185" facs="tcp:105045:101"/>
+a vitall, not a mortall ſick<g ref="char:EOLhyphen"/>neſs;</hi> (or) <hi>a ſickneſs unto Life, rather then unto Death.</hi> I ſay, whenſoever I ſhall heare of that his <note n="o" place="margin">This bleſſed man died at <hi>Eſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on-Manduit,</hi> the houſe of that honoura<g ref="char:EOLhyphen"/>ble Baron<g ref="char:EOLhyphen"/>net Sir <hi>Henry Yelver<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on,</hi> on St. <hi>Mi<g ref="char:EOLhyphen"/>chaels</hi> day, 1659. and of his age, 95. and of his conſecration 54. ſo neare he lived to the happy return of his ſacred Majeſty <hi>Charles</hi> the Second into <hi>England.</hi>
+               </note> Tran<g ref="char:EOLhyphen"/>ſlation from Earth to Hea<g ref="char:EOLhyphen"/>ven, though I ſhall not perhaps uſe thoſe words of the Prophet <hi>Eliſha,</hi> which <hi>Melancthon</hi> did uſe, when News was firſt brought him of <hi>Luthers</hi> Death, <hi>Occidit currus, &amp; auriga</hi> Iſrael: <hi>The Chariot and Chariettier of</hi> Iſrael <hi>are
+<pb n="186" facs="tcp:105045:102"/>
+fallen:</hi> Yet reflecting on him, and thoſe <hi>Religious Prelates</hi> 
+               <note n="p" place="margin">J. U. Arch-Bi<g ref="char:EOLhyphen"/>ſhop of Armagh; <hi>and</hi> J. H. Biſhop <hi>of</hi> Norwich</note>, the <hi>Primate</hi> of <hi>Ireland,</hi> and the <hi>Bernard</hi> of <hi>England</hi> lately deceaſed, (and not to mention di<g ref="char:EOLhyphen"/>vers others Tranſlated like<g ref="char:EOLhyphen"/>wiſe from theſe calamitous and troubleſome times.) I ſhall make bold to uſe the words of another Pro<g ref="char:EOLhyphen"/>phet, even the Prophet <hi>Iſaiah, Juſtus perit, &amp; nemo requirit,</hi> &amp;c. <hi>The Righteous periſh, and no man layeth it to heart: and mercifull men are taken away, few</hi> (I doubt) <hi>conſidering that the
+<pb n="187" facs="tcp:105045:102"/>
+Righteous are taken away from the evill to come: Iſay</hi> 57. 1. That is, from the evill of Gods eminent Judgements; which if they ſhould be meeted to theſe ſinfull Nations, by the hand of Divine Juſtice, in a commenſuration un<g ref="char:EOLhyphen"/>to our ſins, what can we expect but a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſecond deſolation and de<g ref="char:EOLhyphen"/>ſtruction of our <hi>Jeruſalem.</hi> Which God of his infinite mercy avert, if it may ſtand with his holy coun<g ref="char:EOLhyphen"/>ſells; and either tranſlate theſe Judgements from us,
+<pb n="188" facs="tcp:105045:103"/>
+us from them; and ena<g ref="char:EOLhyphen"/>ble all thoſe Perſons, upon whom they ſhall fall, with unſhaken Faith, and invin<g ref="char:EOLhyphen"/>ciple patience to endur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and overcome them: Ever<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more Praying, Prayſing, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confeſſing, with good <hi>N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>hemiah,</hi> unto Almight<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God; <hi>Thou, O Lord, ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſt in all that is brough<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon us, for thou hast don<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> right, but we have do<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wickedly,</hi> Nehem. 9. 33.</p>
+            <p>Unto that merciful<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and glorious God, <hi>Trini<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="189" facs="tcp:105045:103"/>
+               <hi>Trinity,</hi> be aſcribed of all Creatures both in Heaven <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Earth, <hi>All Honour, Glory, Might, Majesty, and Dominion for Evermore.</hi>
+            </p>
+            <closer>Amen. Amen.</closer>
+            <closer>
+               <signed>
+                  <hi>J. N.</hi> D. D.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
